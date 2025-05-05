@@ -1,13 +1,11 @@
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-
 import "./App.css";
+import MainLayout from "./components/MainLayout";
 
 function App() {
   return (
     <>
-      <Header />
-      <Footer />
+      {/* layout  */}
+      <MainLayout />
     </>
   );
 }

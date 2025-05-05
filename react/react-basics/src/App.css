@@ -3,24 +3,48 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #f0f2f5;
 }
 
-h1 {
-  text-align: center;
-  padding: 20px;
-  margin: 0;
-}
-
+/* Header */
 header {
   background-color: #4caf50;
   color: white;
+  padding: 20px;
+  text-align: center;
 }
 
+/* Footer */
 footer {
   background-color: #333;
   color: white;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Main Layout Section */
+.mainBody {
+  display: flex;
+  min-height: 80vh; /* Adjust as needed */
+  padding: 20px;
+  gap: 20px;
+}
+
+/* Sidebars */
+aside {
+  background-color: #ddd;
+  padding: 20px;
+  width: 20%;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+/* Main Content */
+main {
+  background-color: #fff;
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
