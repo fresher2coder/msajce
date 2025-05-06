@@ -1,0 +1,1560 @@
+[{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7c4"
+  },
+  "question": "Which HTML element is used to define the largest heading?",
+  "options": [
+    "<h1>",
+    "<h2>",
+    "<h3>",
+    "<h4>"
+  ],
+  "correctAnswer": "<h1>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7c5"
+  },
+  "question": "Which HTML tag is used for linking an external style sheet?",
+  "options": [
+    "<script>",
+    "<style>",
+    "<link>",
+    "<a>"
+  ],
+  "correctAnswer": "<link>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7cf"
+  },
+  "question": "Which of the following is used to create a new React component?",
+  "options": [
+    "function App() {}",
+    "class App extends React.Component {}",
+    "Both A and B",
+    "None of the above"
+  ],
+  "correctAnswer": "Both A and B"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d5"
+  },
+  "question": "In JavaScript, how do you declare a constant?",
+  "options": [
+    "const",
+    "let",
+    "var",
+    "constant"
+  ],
+  "correctAnswer": "const"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e0"
+  },
+  "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+  "options": [
+    "<script src='script.js'>",
+    "<script href='script.js'>",
+    "<script name='script.js'>",
+    "<script file='script.js'>"
+  ],
+  "correctAnswer": "<script src='script.js'>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e8"
+  },
+  "question": "In React, which method is used to render a component to the DOM?",
+  "options": [
+    "React.render()",
+    "render()",
+    "ReactDOM.render()",
+    "DOM.render()"
+  ],
+  "correctAnswer": "ReactDOM.render()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e9"
+  },
+  "question": "What is a component in React?",
+  "options": [
+    "A JavaScript function or class that returns JSX",
+    "A style file",
+    "A part of an HTML page",
+    "None of the above"
+  ],
+  "correctAnswer": "A JavaScript function or class that returns JSX"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ed"
+  },
+  "question": "In JavaScript, how do you declare a constant?",
+  "options": [
+    "const",
+    "let",
+    "var",
+    "constant"
+  ],
+  "correctAnswer": "const"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f8"
+  },
+  "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+  "options": [
+    "<script src='script.js'>",
+    "<script href='script.js'>",
+    "<script name='script.js'>",
+    "<script file='script.js'>"
+  ],
+  "correctAnswer": "<script src='script.js'>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f9"
+  },
+  "question": "Which tag is used to define a table in HTML?",
+  "options": [
+    "<table>",
+    "<tr>",
+    "<th>",
+    "<td>"
+  ],
+  "correctAnswer": "<table>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7fa"
+  },
+  "question": "Which of these is not a valid JavaScript data type?",
+  "options": [
+    "String",
+    "Number",
+    "Boolean",
+    "Character"
+  ],
+  "correctAnswer": "Character"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7fe"
+  },
+  "question": "What is the purpose of the 'props' in React?",
+  "options": [
+    "To manage state",
+    "To pass data between components",
+    "To render JSX",
+    "To handle user events"
+  ],
+  "correctAnswer": "To pass data between components"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ff"
+  },
+  "question": "Which of the following is used to create a new React component?",
+  "options": [
+    "function App() {}",
+    "class App extends React.Component {}",
+    "Both A and B",
+    "None of the above"
+  ],
+  "correctAnswer": "Both A and B"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f801"
+  },
+  "question": "What is a component in React?",
+  "options": [
+    "A JavaScript function or class that returns JSX",
+    "A style file",
+    "A part of an HTML page",
+    "None of the above"
+  ],
+  "correctAnswer": "A JavaScript function or class that returns JSX"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f802"
+  },
+  "question": "What is the default value of 'state' in React?",
+  "options": [
+    "null",
+    "undefined",
+    "false",
+    "empty object"
+  ],
+  "correctAnswer": "empty object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f803"
+  },
+  "question": "In React, what is the 'children' prop?",
+  "options": [
+    "A built-in component",
+    "An object representing child elements passed to a component",
+    "A JavaScript function",
+    "None of the above"
+  ],
+  "correctAnswer": "An object representing child elements passed to a component"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f805"
+  },
+  "question": "In JavaScript, how do you declare a constant?",
+  "options": [
+    "const",
+    "let",
+    "var",
+    "constant"
+  ],
+  "correctAnswer": "const"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f80a"
+  },
+  "question": "In React, which hook is used to perform side effects?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useContext",
+    "useReducer"
+  ],
+  "correctAnswer": "useEffect"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f80b"
+  },
+  "question": "Which of these is an advantage of using React?",
+  "options": [
+    "Faster rendering",
+    "Reusable components",
+    "Large community",
+    "All of the above"
+  ],
+  "correctAnswer": "All of the above"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f80c"
+  },
+  "question": "Which HTML element is used to define the largest heading?",
+  "options": [
+    "<h1>",
+    "<h2>",
+    "<h3>",
+    "<h4>"
+  ],
+  "correctAnswer": "<h1>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f814"
+  },
+  "question": "What method is used to convert a string into an integer in JavaScript?",
+  "options": [
+    "parseInt()",
+    "parseFloat()",
+    "toNumber()",
+    "convertToInt()"
+  ],
+  "correctAnswer": "parseInt()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f81e"
+  },
+  "question": "What does the '==' operator do in JavaScript?",
+  "options": [
+    "Strict comparison",
+    "Loose comparison",
+    "Assign values",
+    "None of the above"
+  ],
+  "correctAnswer": "Loose comparison"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f820"
+  },
+  "question": "Which JavaScript method is used to remove the last item from an array?",
+  "options": [
+    "pop()",
+    "push()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "pop()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f826"
+  },
+  "question": "Which property is used to change the background color in CSS?",
+  "options": [
+    "color",
+    "background-color",
+    "bg-color",
+    "background"
+  ],
+  "correctAnswer": "background-color"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f829"
+  },
+  "question": "Which tag is used to define a table in HTML?",
+  "options": [
+    "<table>",
+    "<tr>",
+    "<th>",
+    "<td>"
+  ],
+  "correctAnswer": "<table>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f82b"
+  },
+  "question": "What does the 'this' keyword refer to in JavaScript?",
+  "options": [
+    "The current object",
+    "The global window object",
+    "The function itself",
+    "None of the above"
+  ],
+  "correctAnswer": "The current object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f82f"
+  },
+  "question": "Which of the following is used to create a new React component?",
+  "options": [
+    "function App() {}",
+    "class App extends React.Component {}",
+    "Both A and B",
+    "None of the above"
+  ],
+  "correctAnswer": "Both A and B"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f834"
+  },
+  "question": "Which of the following is not a valid React hook?",
+  "options": [
+    "useState()",
+    "useEffect()",
+    "useReducer()",
+    "useArray()"
+  ],
+  "correctAnswer": "useArray()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f837"
+  },
+  "question": "Which method can be used to add an item to the end of an array in JavaScript?",
+  "options": [
+    "push()",
+    "pop()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "push()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d4"
+  },
+  "question": "Which of the following is not a valid React hook?",
+  "options": [
+    "useState()",
+    "useEffect()",
+    "useReducer()",
+    "useArray()"
+  ],
+  "correctAnswer": "useArray()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d7"
+  },
+  "question": "Which method can be used to add an item to the end of an array in JavaScript?",
+  "options": [
+    "push()",
+    "pop()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "push()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7db"
+  },
+  "question": "Which of these is an advantage of using React?",
+  "options": [
+    "Faster rendering",
+    "Reusable components",
+    "Large community",
+    "All of the above"
+  ],
+  "correctAnswer": "All of the above"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e4"
+  },
+  "question": "What method is used to convert a string into an integer in JavaScript?",
+  "options": [
+    "parseInt()",
+    "parseFloat()",
+    "toNumber()",
+    "convertToInt()"
+  ],
+  "correctAnswer": "parseInt()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ee"
+  },
+  "question": "What does the '==' operator do in JavaScript?",
+  "options": [
+    "Strict comparison",
+    "Loose comparison",
+    "Assign values",
+    "None of the above"
+  ],
+  "correctAnswer": "Loose comparison"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f1"
+  },
+  "question": "What is the default value of 'display' for a div element?",
+  "options": [
+    "block",
+    "inline",
+    "flex",
+    "none"
+  ],
+  "correctAnswer": "block"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f2"
+  },
+  "question": "In React, which hook is used to perform side effects?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useContext",
+    "useReducer"
+  ],
+  "correctAnswer": "useEffect"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f3"
+  },
+  "question": "Which of these is an advantage of using React?",
+  "options": [
+    "Faster rendering",
+    "Reusable components",
+    "Large community",
+    "All of the above"
+  ],
+  "correctAnswer": "All of the above"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f5"
+  },
+  "question": "Which HTML tag is used for linking an external style sheet?",
+  "options": [
+    "<script>",
+    "<style>",
+    "<link>",
+    "<a>"
+  ],
+  "correctAnswer": "<link>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7fc"
+  },
+  "question": "What method is used to convert a string into an integer in JavaScript?",
+  "options": [
+    "parseInt()",
+    "parseFloat()",
+    "toNumber()",
+    "convertToInt()"
+  ],
+  "correctAnswer": "parseInt()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f809"
+  },
+  "question": "What is the default value of 'display' for a div element?",
+  "options": [
+    "block",
+    "inline",
+    "flex",
+    "none"
+  ],
+  "correctAnswer": "block"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f80d"
+  },
+  "question": "Which HTML tag is used for linking an external style sheet?",
+  "options": [
+    "<script>",
+    "<style>",
+    "<link>",
+    "<a>"
+  ],
+  "correctAnswer": "<link>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f811"
+  },
+  "question": "Which tag is used to define a table in HTML?",
+  "options": [
+    "<table>",
+    "<tr>",
+    "<th>",
+    "<td>"
+  ],
+  "correctAnswer": "<table>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f812"
+  },
+  "question": "Which of these is not a valid JavaScript data type?",
+  "options": [
+    "String",
+    "Number",
+    "Boolean",
+    "Character"
+  ],
+  "correctAnswer": "Character"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f813"
+  },
+  "question": "What does the 'this' keyword refer to in JavaScript?",
+  "options": [
+    "The current object",
+    "The global window object",
+    "The function itself",
+    "None of the above"
+  ],
+  "correctAnswer": "The current object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f815"
+  },
+  "question": "In React, what is used to update the state of a component?",
+  "options": [
+    "setState()",
+    "useState()",
+    "updateState()",
+    "stateUpdate()"
+  ],
+  "correctAnswer": "useState()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f817"
+  },
+  "question": "Which of the following is used to create a new React component?",
+  "options": [
+    "function App() {}",
+    "class App extends React.Component {}",
+    "Both A and B",
+    "None of the above"
+  ],
+  "correctAnswer": "Both A and B"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f81a"
+  },
+  "question": "What is the default value of 'state' in React?",
+  "options": [
+    "null",
+    "undefined",
+    "false",
+    "empty object"
+  ],
+  "correctAnswer": "empty object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f81b"
+  },
+  "question": "In React, what is the 'children' prop?",
+  "options": [
+    "A built-in component",
+    "An object representing child elements passed to a component",
+    "A JavaScript function",
+    "None of the above"
+  ],
+  "correctAnswer": "An object representing child elements passed to a component"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f822"
+  },
+  "question": "In React, which hook is used to perform side effects?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useContext",
+    "useReducer"
+  ],
+  "correctAnswer": "useEffect"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f824"
+  },
+  "question": "Which HTML element is used to define the largest heading?",
+  "options": [
+    "<h1>",
+    "<h2>",
+    "<h3>",
+    "<h4>"
+  ],
+  "correctAnswer": "<h1>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f82c"
+  },
+  "question": "What method is used to convert a string into an integer in JavaScript?",
+  "options": [
+    "parseInt()",
+    "parseFloat()",
+    "toNumber()",
+    "convertToInt()"
+  ],
+  "correctAnswer": "parseInt()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f82e"
+  },
+  "question": "What is the purpose of the 'props' in React?",
+  "options": [
+    "To manage state",
+    "To pass data between components",
+    "To render JSX",
+    "To handle user events"
+  ],
+  "correctAnswer": "To pass data between components"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f832"
+  },
+  "question": "What is the default value of 'state' in React?",
+  "options": [
+    "null",
+    "undefined",
+    "false",
+    "empty object"
+  ],
+  "correctAnswer": "empty object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f83b"
+  },
+  "question": "Which of these is an advantage of using React?",
+  "options": [
+    "Faster rendering",
+    "Reusable components",
+    "Large community",
+    "All of the above"
+  ],
+  "correctAnswer": "All of the above"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7c7"
+  },
+  "question": "What does CSS stand for?",
+  "options": [
+    "Cascading Style Sheets",
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Cascading Script Sheets"
+  ],
+  "correctAnswer": "Cascading Style Sheets"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7c8"
+  },
+  "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+  "options": [
+    "<script src='script.js'>",
+    "<script href='script.js'>",
+    "<script name='script.js'>",
+    "<script file='script.js'>"
+  ],
+  "correctAnswer": "<script src='script.js'>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7c9"
+  },
+  "question": "Which tag is used to define a table in HTML?",
+  "options": [
+    "<table>",
+    "<tr>",
+    "<th>",
+    "<td>"
+  ],
+  "correctAnswer": "<table>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7cc"
+  },
+  "question": "What method is used to convert a string into an integer in JavaScript?",
+  "options": [
+    "parseInt()",
+    "parseFloat()",
+    "toNumber()",
+    "convertToInt()"
+  ],
+  "correctAnswer": "parseInt()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ce"
+  },
+  "question": "What is the purpose of the 'props' in React?",
+  "options": [
+    "To manage state",
+    "To pass data between components",
+    "To render JSX",
+    "To handle user events"
+  ],
+  "correctAnswer": "To pass data between components"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d2"
+  },
+  "question": "What is the default value of 'state' in React?",
+  "options": [
+    "null",
+    "undefined",
+    "false",
+    "empty object"
+  ],
+  "correctAnswer": "empty object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d6"
+  },
+  "question": "What does the '==' operator do in JavaScript?",
+  "options": [
+    "Strict comparison",
+    "Loose comparison",
+    "Assign values",
+    "None of the above"
+  ],
+  "correctAnswer": "Loose comparison"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d9"
+  },
+  "question": "What is the default value of 'display' for a div element?",
+  "options": [
+    "block",
+    "inline",
+    "flex",
+    "none"
+  ],
+  "correctAnswer": "block"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e1"
+  },
+  "question": "Which tag is used to define a table in HTML?",
+  "options": [
+    "<table>",
+    "<tr>",
+    "<th>",
+    "<td>"
+  ],
+  "correctAnswer": "<table>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e2"
+  },
+  "question": "Which of these is not a valid JavaScript data type?",
+  "options": [
+    "String",
+    "Number",
+    "Boolean",
+    "Character"
+  ],
+  "correctAnswer": "Character"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e5"
+  },
+  "question": "In React, what is used to update the state of a component?",
+  "options": [
+    "setState()",
+    "useState()",
+    "updateState()",
+    "stateUpdate()"
+  ],
+  "correctAnswer": "useState()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e6"
+  },
+  "question": "What is the purpose of the 'props' in React?",
+  "options": [
+    "To manage state",
+    "To pass data between components",
+    "To render JSX",
+    "To handle user events"
+  ],
+  "correctAnswer": "To pass data between components"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e7"
+  },
+  "question": "Which of the following is used to create a new React component?",
+  "options": [
+    "function App() {}",
+    "class App extends React.Component {}",
+    "Both A and B",
+    "None of the above"
+  ],
+  "correctAnswer": "Both A and B"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ea"
+  },
+  "question": "What is the default value of 'state' in React?",
+  "options": [
+    "null",
+    "undefined",
+    "false",
+    "empty object"
+  ],
+  "correctAnswer": "empty object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f0"
+  },
+  "question": "Which JavaScript method is used to remove the last item from an array?",
+  "options": [
+    "pop()",
+    "push()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "pop()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f4"
+  },
+  "question": "Which HTML element is used to define the largest heading?",
+  "options": [
+    "<h1>",
+    "<h2>",
+    "<h3>",
+    "<h4>"
+  ],
+  "correctAnswer": "<h1>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f6"
+  },
+  "question": "Which property is used to change the background color in CSS?",
+  "options": [
+    "color",
+    "background-color",
+    "bg-color",
+    "background"
+  ],
+  "correctAnswer": "background-color"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7fb"
+  },
+  "question": "What does the 'this' keyword refer to in JavaScript?",
+  "options": [
+    "The current object",
+    "The global window object",
+    "The function itself",
+    "None of the above"
+  ],
+  "correctAnswer": "The current object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7fd"
+  },
+  "question": "In React, what is used to update the state of a component?",
+  "options": [
+    "setState()",
+    "useState()",
+    "updateState()",
+    "stateUpdate()"
+  ],
+  "correctAnswer": "useState()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f800"
+  },
+  "question": "In React, which method is used to render a component to the DOM?",
+  "options": [
+    "React.render()",
+    "render()",
+    "ReactDOM.render()",
+    "DOM.render()"
+  ],
+  "correctAnswer": "ReactDOM.render()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f804"
+  },
+  "question": "Which of the following is not a valid React hook?",
+  "options": [
+    "useState()",
+    "useEffect()",
+    "useReducer()",
+    "useArray()"
+  ],
+  "correctAnswer": "useArray()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f808"
+  },
+  "question": "Which JavaScript method is used to remove the last item from an array?",
+  "options": [
+    "pop()",
+    "push()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "pop()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f80e"
+  },
+  "question": "Which property is used to change the background color in CSS?",
+  "options": [
+    "color",
+    "background-color",
+    "bg-color",
+    "background"
+  ],
+  "correctAnswer": "background-color"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f80f"
+  },
+  "question": "What does CSS stand for?",
+  "options": [
+    "Cascading Style Sheets",
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Cascading Script Sheets"
+  ],
+  "correctAnswer": "Cascading Style Sheets"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f810"
+  },
+  "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+  "options": [
+    "<script src='script.js'>",
+    "<script href='script.js'>",
+    "<script name='script.js'>",
+    "<script file='script.js'>"
+  ],
+  "correctAnswer": "<script src='script.js'>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f819"
+  },
+  "question": "What is a component in React?",
+  "options": [
+    "A JavaScript function or class that returns JSX",
+    "A style file",
+    "A part of an HTML page",
+    "None of the above"
+  ],
+  "correctAnswer": "A JavaScript function or class that returns JSX"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f81f"
+  },
+  "question": "Which method can be used to add an item to the end of an array in JavaScript?",
+  "options": [
+    "push()",
+    "pop()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "push()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f823"
+  },
+  "question": "Which of these is an advantage of using React?",
+  "options": [
+    "Faster rendering",
+    "Reusable components",
+    "Large community",
+    "All of the above"
+  ],
+  "correctAnswer": "All of the above"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f827"
+  },
+  "question": "What does CSS stand for?",
+  "options": [
+    "Cascading Style Sheets",
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Cascading Script Sheets"
+  ],
+  "correctAnswer": "Cascading Style Sheets"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f828"
+  },
+  "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+  "options": [
+    "<script src='script.js'>",
+    "<script href='script.js'>",
+    "<script name='script.js'>",
+    "<script file='script.js'>"
+  ],
+  "correctAnswer": "<script src='script.js'>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f82a"
+  },
+  "question": "Which of these is not a valid JavaScript data type?",
+  "options": [
+    "String",
+    "Number",
+    "Boolean",
+    "Character"
+  ],
+  "correctAnswer": "Character"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f833"
+  },
+  "question": "In React, what is the 'children' prop?",
+  "options": [
+    "A built-in component",
+    "An object representing child elements passed to a component",
+    "A JavaScript function",
+    "None of the above"
+  ],
+  "correctAnswer": "An object representing child elements passed to a component"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f835"
+  },
+  "question": "In JavaScript, how do you declare a constant?",
+  "options": [
+    "const",
+    "let",
+    "var",
+    "constant"
+  ],
+  "correctAnswer": "const"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f838"
+  },
+  "question": "Which JavaScript method is used to remove the last item from an array?",
+  "options": [
+    "pop()",
+    "push()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "pop()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f83a"
+  },
+  "question": "In React, which hook is used to perform side effects?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useContext",
+    "useReducer"
+  ],
+  "correctAnswer": "useEffect"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7c6"
+  },
+  "question": "Which property is used to change the background color in CSS?",
+  "options": [
+    "color",
+    "background-color",
+    "bg-color",
+    "background"
+  ],
+  "correctAnswer": "background-color"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ca"
+  },
+  "question": "Which of these is not a valid JavaScript data type?",
+  "options": [
+    "String",
+    "Number",
+    "Boolean",
+    "Character"
+  ],
+  "correctAnswer": "Character"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7cb"
+  },
+  "question": "What does the 'this' keyword refer to in JavaScript?",
+  "options": [
+    "The current object",
+    "The global window object",
+    "The function itself",
+    "None of the above"
+  ],
+  "correctAnswer": "The current object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7cd"
+  },
+  "question": "In React, what is used to update the state of a component?",
+  "options": [
+    "setState()",
+    "useState()",
+    "updateState()",
+    "stateUpdate()"
+  ],
+  "correctAnswer": "useState()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d0"
+  },
+  "question": "In React, which method is used to render a component to the DOM?",
+  "options": [
+    "React.render()",
+    "render()",
+    "ReactDOM.render()",
+    "DOM.render()"
+  ],
+  "correctAnswer": "ReactDOM.render()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d1"
+  },
+  "question": "What is a component in React?",
+  "options": [
+    "A JavaScript function or class that returns JSX",
+    "A style file",
+    "A part of an HTML page",
+    "None of the above"
+  ],
+  "correctAnswer": "A JavaScript function or class that returns JSX"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d3"
+  },
+  "question": "In React, what is the 'children' prop?",
+  "options": [
+    "A built-in component",
+    "An object representing child elements passed to a component",
+    "A JavaScript function",
+    "None of the above"
+  ],
+  "correctAnswer": "An object representing child elements passed to a component"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7d8"
+  },
+  "question": "Which JavaScript method is used to remove the last item from an array?",
+  "options": [
+    "pop()",
+    "push()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "pop()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7da"
+  },
+  "question": "In React, which hook is used to perform side effects?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useContext",
+    "useReducer"
+  ],
+  "correctAnswer": "useEffect"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7dc"
+  },
+  "question": "Which HTML element is used to define the largest heading?",
+  "options": [
+    "<h1>",
+    "<h2>",
+    "<h3>",
+    "<h4>"
+  ],
+  "correctAnswer": "<h1>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7dd"
+  },
+  "question": "Which HTML tag is used for linking an external style sheet?",
+  "options": [
+    "<script>",
+    "<style>",
+    "<link>",
+    "<a>"
+  ],
+  "correctAnswer": "<link>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7de"
+  },
+  "question": "Which property is used to change the background color in CSS?",
+  "options": [
+    "color",
+    "background-color",
+    "bg-color",
+    "background"
+  ],
+  "correctAnswer": "background-color"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7df"
+  },
+  "question": "What does CSS stand for?",
+  "options": [
+    "Cascading Style Sheets",
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Cascading Script Sheets"
+  ],
+  "correctAnswer": "Cascading Style Sheets"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7e3"
+  },
+  "question": "What does the 'this' keyword refer to in JavaScript?",
+  "options": [
+    "The current object",
+    "The global window object",
+    "The function itself",
+    "None of the above"
+  ],
+  "correctAnswer": "The current object"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7eb"
+  },
+  "question": "In React, what is the 'children' prop?",
+  "options": [
+    "A built-in component",
+    "An object representing child elements passed to a component",
+    "A JavaScript function",
+    "None of the above"
+  ],
+  "correctAnswer": "An object representing child elements passed to a component"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ec"
+  },
+  "question": "Which of the following is not a valid React hook?",
+  "options": [
+    "useState()",
+    "useEffect()",
+    "useReducer()",
+    "useArray()"
+  ],
+  "correctAnswer": "useArray()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7ef"
+  },
+  "question": "Which method can be used to add an item to the end of an array in JavaScript?",
+  "options": [
+    "push()",
+    "pop()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "push()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f7f7"
+  },
+  "question": "What does CSS stand for?",
+  "options": [
+    "Cascading Style Sheets",
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Cascading Script Sheets"
+  ],
+  "correctAnswer": "Cascading Style Sheets"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f806"
+  },
+  "question": "What does the '==' operator do in JavaScript?",
+  "options": [
+    "Strict comparison",
+    "Loose comparison",
+    "Assign values",
+    "None of the above"
+  ],
+  "correctAnswer": "Loose comparison"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f807"
+  },
+  "question": "Which method can be used to add an item to the end of an array in JavaScript?",
+  "options": [
+    "push()",
+    "pop()",
+    "shift()",
+    "unshift()"
+  ],
+  "correctAnswer": "push()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f816"
+  },
+  "question": "What is the purpose of the 'props' in React?",
+  "options": [
+    "To manage state",
+    "To pass data between components",
+    "To render JSX",
+    "To handle user events"
+  ],
+  "correctAnswer": "To pass data between components"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f818"
+  },
+  "question": "In React, which method is used to render a component to the DOM?",
+  "options": [
+    "React.render()",
+    "render()",
+    "ReactDOM.render()",
+    "DOM.render()"
+  ],
+  "correctAnswer": "ReactDOM.render()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f81c"
+  },
+  "question": "Which of the following is not a valid React hook?",
+  "options": [
+    "useState()",
+    "useEffect()",
+    "useReducer()",
+    "useArray()"
+  ],
+  "correctAnswer": "useArray()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f81d"
+  },
+  "question": "In JavaScript, how do you declare a constant?",
+  "options": [
+    "const",
+    "let",
+    "var",
+    "constant"
+  ],
+  "correctAnswer": "const"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f821"
+  },
+  "question": "What is the default value of 'display' for a div element?",
+  "options": [
+    "block",
+    "inline",
+    "flex",
+    "none"
+  ],
+  "correctAnswer": "block"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f825"
+  },
+  "question": "Which HTML tag is used for linking an external style sheet?",
+  "options": [
+    "<script>",
+    "<style>",
+    "<link>",
+    "<a>"
+  ],
+  "correctAnswer": "<link>"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f82d"
+  },
+  "question": "In React, what is used to update the state of a component?",
+  "options": [
+    "setState()",
+    "useState()",
+    "updateState()",
+    "stateUpdate()"
+  ],
+  "correctAnswer": "useState()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f830"
+  },
+  "question": "In React, which method is used to render a component to the DOM?",
+  "options": [
+    "React.render()",
+    "render()",
+    "ReactDOM.render()",
+    "DOM.render()"
+  ],
+  "correctAnswer": "ReactDOM.render()"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f831"
+  },
+  "question": "What is a component in React?",
+  "options": [
+    "A JavaScript function or class that returns JSX",
+    "A style file",
+    "A part of an HTML page",
+    "None of the above"
+  ],
+  "correctAnswer": "A JavaScript function or class that returns JSX"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f836"
+  },
+  "question": "What does the '==' operator do in JavaScript?",
+  "options": [
+    "Strict comparison",
+    "Loose comparison",
+    "Assign values",
+    "None of the above"
+  ],
+  "correctAnswer": "Loose comparison"
+},
+{
+  "_id": {
+    "$oid": "68182975d6305c168c45f839"
+  },
+  "question": "What is the default value of 'display' for a div element?",
+  "options": [
+    "block",
+    "inline",
+    "flex",
+    "none"
+  ],
+  "correctAnswer": "block"
+}]
