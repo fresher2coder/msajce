@@ -4,7 +4,6 @@ import Parent from "./props/propsMethod/Parent";
 import UserLayout from "./props/UserLayout";
 import UserProfile from "./props/UserProfile";
 import Counter from "./state/Counter";
-import FeatureToggles from "./state/FeatureToggles";
 
 function App() {
   return (
@@ -51,13 +50,11 @@ function App() {
       {/* <Parent /> */}
 
       {/* state  */}
-      {/* <section className="counters">
+      <section className="counters">
         <Counter initialValue={1} incrementValue={1} />
         <Counter initialValue={10} incrementValue={10} />
         <Counter initialValue={100} incrementValue={100} />
-      </section> */}
-
-      <FeatureToggles />
+      </section>
     </>
   );
 }
