@@ -3,6 +3,7 @@ import MainLayout from "./components/MainLayout";
 import Parent from "./props/propsMethod/Parent";
 import UserLayout from "./props/UserLayout";
 import UserProfile from "./props/UserProfile";
+import Counter from "./state/Counter";
 
 function App() {
   return (
@@ -46,8 +47,14 @@ function App() {
       </section> */}
 
       {/* probs as method  child -> parent */}
+      {/* <Parent /> */}
 
-      <Parent />
+      {/* state  */}
+      <section className="counters">
+        <Counter initialValue={1} incrementValue={1} />
+        <Counter initialValue={10} incrementValue={10} />
+        <Counter initialValue={100} incrementValue={100} />
+      </section>
     </>
   );
 }
