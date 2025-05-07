@@ -50,3 +50,29 @@ setTimeout(() => {
 }, 3000); // non-blocking
 
 console.log("End");
+
+//spread operator
+const arr1 = [1, 2, 3];
+const arr2 = [4, 5, 6];
+const arr3 = [...arr1, ...arr2];
+console.log(arr3);
+
+//map filter reduce - array methods
+
+const numbers = [1, 2, 3, 4, 5];
+
+const doubled = numbers.map((num) => num * 2);
+
+const evenNumbers = numbers.filter((num) => num % 2 == 0);
+
+const sumOfNumbers = numbers.reduce((sum, num) => sum + num, 0);
+
+console.log("Doubled: ", doubled); // [2, 4, 6, 8, 10]
+console.log("Even Numbers: ", evenNumbers); // [2, 4]
+console.log("Sum of Numbers: ", sumOfNumbers); // 15
+
+for (let i = 0; i < numbers.length; i++) {
+  doubled.push(numbers[i] * 2); //map
+  if (numbers[i] % 2 == 0) evenNumbers.push(numbers[i]); //filter
+  sumOfNumbers += numbers[i]; //reduce
+}

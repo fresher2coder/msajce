@@ -1,10 +1,12 @@
 import "./App.css";
 import MainLayout from "./components/MainLayout";
+import Employee from "./mapFilterReduce/Employee";
 import Parent from "./props/propsMethod/Parent";
 import UserLayout from "./props/UserLayout";
 import UserProfile from "./props/UserProfile";
 import Counter from "./state/Counter";
 import FeatureToggle from "./state/FeatureToggle";
+import MouseTrackerApp from "./useEffect/MouseTrackerApp";
 
 function App() {
   return (
@@ -57,7 +59,13 @@ function App() {
         <Counter initialValue={100} incrementValue={100} />
       </section> */}
 
-      <FeatureToggle />
+      {/* <FeatureToggle /> */}
+
+      {/* map filter reduce - list rendering */}
+      {/* <Employee /> */}
+
+      {/* useEffect  */}
+      <MouseTrackerApp />
     </>
   );
 }

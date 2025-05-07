@@ -1,0 +1,101 @@
+_id,id,topic,question,options[0],options[1],options[2],options[3],options[4],answer
+a1b2c3d4e5f6012345678901,1,props,What does 'props' stand for in React?,Properties,Prototypes,Processes,Provisions,,Properties
+a1b2c3d4e5f6012345678902,2,props,Are props mutable in React?,Yes,No,Sometimes,Only in class components,,No
+a1b2c3d4e5f6012345678903,3,props,How are props passed in React?,As component attributes,As function arguments,Via state,With useEffect,,As component attributes
+a1b2c3d4e5f6012345678904,4,props,What is the children prop in React used for?,Passing elements,Passing text,Receiving input,Sending data to API,,Passing elements
+a1b2c3d4e5f6012345678905,5,props,Which of the following accesses props in a functional component?,props,this.props,useProps,getProps(),,props
+a1b2c3d4e5f6012345678906,6,props,Can you use props inside a class component?,Yes,No,Only with hooks,Only for children,,Yes
+a1b2c3d4e5f6012345678907,7,props,What happens if a required prop is missing?,Component may break,Component won’t render,Nothing,It will warn and crash,,Component may break
+a1b2c3d4e5f6012345678908,8,props,How do you set default values for props?,defaultProps,initialProps,setProps,propTypes,,defaultProps
+a1b2c3d4e5f6012345678909,9,props,Can props be functions?,Yes,No,Only in classes,Only in arrays,,Yes
+a1b2c3d4e5f6012345678910,10,props,What is the children prop used for?,Nested content,Styling,Props validation,State control,,Nested content
+a1b2c3d4e5f6012345678911,11,props,How do you pass JSX as a child?,Wrap JSX inside component tags,Pass as function,Use `useJSX`,Via `innerHTML`,,Wrap JSX inside component tags
+a1b2c3d4e5f6012345678912,12,props,Can props be updated by a child component?,No,Yes,Only using hooks,Only once,,No
+a1b2c3d4e5f6012345678913,13,props,What’s the output of `<Greeting name='John' />` if Greeting returns `Hello {props.name}`?,Hello John,Hello,name,undefined,,Hello John
+a1b2c3d4e5f6012345678914,14,props,Which prop lets you pass components as children?,children,component,jsx,nested,,children
+a1b2c3d4e5f6012345678915,15,props,Which of these best explains why props are useful?,They help make components reusable,They update automatically,They replace state,They reduce performance,,They help make components reusable
+a1b2c3d4e5f6012345678916,16,props,How can you render a prop value inside JSX?,{props.value},(props.value),[props.value],<props.value>,,{props.value}
+a1b2c3d4e5f6012345678917,17,props,How can you validate props?,Using PropTypes,Using useEffect,Using hooks,Using classes,,Using PropTypes
+a1b2c3d4e5f6012345678918,18,props,How do you pass multiple props to a component?,As separate attributes,As an array,As a function,Using spread only,,As separate attributes
+a1b2c3d4e5f6012345678919,19,props,Which of these is NOT a prop type?,element,number,object,state,,state
+a1b2c3d4e5f6012345678920,20,props,Can props contain arrays?,Yes,No,Only numbers,Only strings,,Yes
+a1b2c3d4e5f6012345678921,21,props,Which library is commonly used to validate props?,PropTypes,Yup,Formik,Zod,,PropTypes
+a1b2c3d4e5f6012345678922,22,props,How do you pass a function as a prop?,By referencing the function,By wrapping in quotes,As a string,Using bind,,By referencing the function
+a1b2c3d4e5f6012345678923,23,props,Which statement about props is false?,Props are immutable,Props can pass data,Props can be functions,Props can be changed from child,,Props can be changed from child
+a1b2c3d4e5f6012345678924,24,props,How can you use the spread operator with props?,<Component {...props} />,<Component ..props />,<Component props />,<Component =props />,,<Component {...props} />
+a1b2c3d4e5f6012345678925,25,props,What is the correct way to pass a prop named 'title'?,<Component title='Hello' />,<Component.prop title='Hello' />,<Component>title='Hello'</Component>,<Component title>Hello</Component>,,<Component title='Hello' />
+6819bf0e134efd20d564f9da,26,state,What does the useState hook return?,An array with current state and updater function,Just the current state,A function,A Promise,,An array with current state and updater function
+6819bf0e134efd20d564f9db,27,state,How do you declare state for a string value?,useState(''),useState(0),useState([]),useState({}),,useState('')
+6819bf0e134efd20d564f9dc,28,state,Which of these is a correct way to update state for a number?,setCount(count + 1),count++,updateCount(),this.setCount(1),,setCount(count + 1)
+6819bf0e134efd20d564f9dd,29,state,What will happen if you call a state update inside the component body?,It causes an infinite loop,It does nothing,It throws an error,It updates once,,It causes an infinite loop
+6819bf0e134efd20d564f9de,30,state,How can you update part of an object in state?,"setState(prev => ({...prev, key: 'value'}))",setState({ key: 'value' }),state.key = 'value',useState().key = 'value',,"setState(prev => ({...prev, key: 'value'}))"
+6819bf0e134efd20d564f9df,31,state,What is a common issue when updating arrays in state?,Mutating the array directly,Using setState too early,Incorrect import of useState,Forgetting to declare state,,Mutating the array directly
+6819bf0e134efd20d564f9e0,32,state,What is the purpose of the setter function from useState?,Update the state,Log state changes,Initialize the component,Style the component,,Update the state
+6819bf0e134efd20d564f9e1,33,state,When does React re-render a component?,When state or props change,On every event,When importing a module,Only on load,,When state or props change
+6819bf0e134efd20d564f9e2,34,state,Can you use multiple useState hooks in one component?,Yes,No,Only in class components,Only in separate files,,Yes
+6819bf0e134efd20d564f9e3,35,state,Which datatype does NOT require spreading when updating in state?,String,Array,Object,All require it,,String
+6819bf0e134efd20d564f9e4,36,state,How can you append to a list in state?,"setList([...list, newItem])",list.push(newItem),setList(list + newItem),setList(newItem + list),,"setList([...list, newItem])"
+6819bf0e134efd20d564f9e5,37,state,Which of these is NOT valid useState syntax?,"const [x, setX] = useState()",const state = useState(0),useState = (0),"const [a, b] = useState(1)",,useState = (0)
+6819bf0e134efd20d564f9e6,38,state,How can you reset state to its initial value?,Call setState with initial value,Use reset(),Re-import useState,Use useEffect,,Call setState with initial value
+6819bf0e134efd20d564f9e7,39,state,How can you track form input changes using state?,Bind value and onChange to state,UseEffect on form,Form.observe,State cannot track inputs,,Bind value and onChange to state
+6819bf0e134efd20d564f9e8,40,state,Which is better for managing complex state updates?,useReducer,useState,useContext,useEffect,,useReducer
+6819bf0e134efd20d564f9e9,41,state,How do you set a default object in state?,useState({ key: 'value' }),useState(key='value'),"useState(['key', 'value'])",useState(null),,useState({ key: 'value' })
+6819bf0e134efd20d564f9ea,42,state,Which hook helps you remember previous state values?,useRef,useEffect,useMemo,useState,,useRef
+6819bf0e134efd20d564f9eb,43,state,Is it recommended to store derived data in state?,No,Yes,Only with memoization,Sometimes,,No
+6819bf0e134efd20d564f9ec,44,state,Which function is used to access previous state during update?,setState(prev => ...),getState(),useEffect(),updateState(prevState),,setState(prev => ...)
+6819bf0e134efd20d564f9ed,45,state,What happens when you update state with the same value?,No re-render,Forces render,Component unmounts,State resets,,No re-render
+6819bf0e134efd20d564f9ee,46,state,Which React version introduced hooks?,16.8,15.0,17.2,18.0,,16.8
+6819bf0e134efd20d564f9ef,47,state,What is the initial state value in useState(5)?,5,0,undefined,null,,5
+6819bf0e134efd20d564f9f0,48,state,Can useState be used inside loops?,No,Yes,Only in class components,Only if wrapped in memo,,No
+6819bf0e134efd20d564f9f1,49,state,Which state change is asynchronous?,All React state updates,useRef updates,DOM changes,setInterval,,All React state updates
+6819bf0e134efd20d564f9f2,50,state,How can you prevent unnecessary re-renders from state changes?,Avoid frequent state updates,Use more hooks,Only use objects,Update props instead,,Avoid frequent state updates
+6819bf3a134efd20d564f9f4,51,arrow function,What is the syntax of an arrow function?,() => {},function() => {},() -> {},function => {},,() => {}
+6819bf3a134efd20d564f9f5,52,arrow function,Arrow functions do NOT bind their own:,this,parameters,return value,scope,,this
+6819bf3a134efd20d564f9f6,53,arrow function,Which is a valid single-line arrow function returning 10?,() => 10,() => { return 10; },=> 10,() => {10},() => return 10,() => 10
+6819bf3a134efd20d564f9f7,54,arrow function,How many parameters can an arrow function accept?,Any number,Only one,None,Only two,,Any number
+6819bf3a134efd20d564f9f8,55,arrow function,What does this arrow function return: `x => x * 2`?,The result of x multiplied by 2,An error,2,Nothing,,The result of x multiplied by 2
+6819bf3a134efd20d564f9f9,56,arrow function,"What is missing in `const add = (a, b) => { a + b }`?",Return statement,Semicolon,Parentheses,Curly braces,,Return statement
+6819bf3a134efd20d564f9fa,57,arrow function,Which is the correct arrow function for returning an object?,() => ({ name: 'React' }),() => { name: 'React' },() => { return name: 'React' },() => name: 'React',,() => ({ name: 'React' })
+6819bf3a134efd20d564f9fb,58,arrow function,Do arrow functions have a prototype property?,No,Yes,Sometimes,Only in classes,,No
+6819bf3a134efd20d564f9fc,59,arrow function,Which keyword is NOT allowed in arrow functions?,this,arguments,const,return,,arguments
+6819bf3a134efd20d564f9fd,60,arrow function,Which of the following is an advantage of arrow functions?,Shorter syntax,Automatic binding of this,No binding of arguments,All of the above,,All of the above
+6819bf3a134efd20d564f9fe,61,arrow function,Arrow functions are best used for:,Callbacks and short functions,Constructors,Class methods,DOM manipulation,,Callbacks and short functions
+6819bf3a134efd20d564f9ff,62,arrow function,Which one is true about arrow functions?,They do not have their own 'this',They are hoisted,They can be used as constructors,They create a new scope,,They do not have their own 'this'
+6819bf3a134efd20d564fa00,63,arrow function,What is the output of `(x => x + 5)(3)`?,8,15,5,3,,8
+6819bf3a134efd20d564fa01,64,arrow function,Can you omit parentheses for a single parameter?,Yes,No,Only in strict mode,Only in JSX,,Yes
+6819bf3a134efd20d564fa02,65,arrow function,What is the difference between arrow functions and traditional functions?,Arrow functions don't bind 'this',Arrow functions are hoisted,Arrow functions support overloading,Arrow functions always return strings,,Arrow functions don't bind 'this'
+6819bf3a134efd20d564fa03,66,arrow function,What happens if you use `new` with an arrow function?,Throws an error,Creates a new object,Binds this,Returns undefined,,Throws an error
+6819bf3a134efd20d564fa04,67,arrow function,What is the default return of an arrow function with no return or expression?,undefined,null,false,error,,undefined
+6819bf3a134efd20d564fa05,68,arrow function,Arrow functions make it easier to work with which kind of context?,this context,event loop,scope chain,hoisting,,this context
+6819bf3a134efd20d564fa06,69,arrow function,Arrow functions can replace which common JS feature?,Anonymous function expressions,if-else blocks,for-loops,Classes,,Anonymous function expressions
+6819bf3a134efd20d564fa07,70,arrow function,Which of the following is NOT true about arrow functions?,They can be async,They are always anonymous,They are hoisted,They don't bind 'this',,They are hoisted
+6819bf3a134efd20d564fa08,71,arrow function,Are arrow functions suitable for defining methods in classes?,No,Yes,Sometimes,Only with decorators,,No
+6819bf3a134efd20d564fa09,72,arrow function,How do you return a string using arrow function?,() => 'Hello',() => { return Hello },() => return 'Hello',() => { Hello },,() => 'Hello'
+6819bf3a134efd20d564fa0a,73,arrow function,What happens if an arrow function has a block body but no return statement?,It returns undefined,It throws an error,It returns the last expression,It binds this,,It returns undefined
+6819bf3a134efd20d564fa0b,74,arrow function,What is a correct use of arrow function in a map method?,array.map(item => item * 2),"array.map((item, index) => { return item })",array.map(() => item),array.map(item = item * 2),,array.map(item => item * 2)
+6819bf3a134efd20d564fa0c,75,arrow function,Can arrow functions have default parameters?,Yes,No,Only in strict mode,Only in ES5,,Yes
+6819bf70134efd20d564fa0e,76,event handling,Which event is used to handle a button click in React?,onClick,click,handleClick,onTap,,onClick
+6819bf70134efd20d564fa0f,77,event handling,Where should you attach an onClick handler in React?,Directly on the JSX element,In CSS,Inside the constructor,Inside the reducer,,Directly on the JSX element
+6819bf70134efd20d564fa10,78,event handling,Which is the correct syntax to pass a function to onClick?,onClick={handleClick},onClick=handleClick(),onClick: handleClick,click={handleClick},,onClick={handleClick}
+6819bf70134efd20d564fa11,79,event handling,How do you prevent default behavior in an event handler?,event.preventDefault(),stopDefault(),event.stop(),prevent(event),,event.preventDefault()
+6819bf70134efd20d564fa12,80,event handling,Which object is passed to event handlers?,SyntheticEvent,DOMEvent,ReactEvent,NativeEvent,,SyntheticEvent
+6819bf70134efd20d564fa13,81,event handling,What happens when you call a function in onClick like `onClick={handleClick()}`?,It runs immediately,It runs on click,It binds the handler,It throws an error,,It runs immediately
+6819bf70134efd20d564fa14,82,event handling,How do you pass parameters to an onClick handler?,onClick={() => handleClick(id)},onClick={handleClick(id)},onClick=[handleClick(id)],onClick: handleClick(id),,onClick={() => handleClick(id)}
+6819bf70134efd20d564fa15,83,event handling,What keyword allows you to stop event propagation?,event.stopPropagation(),event.cancel(),stop(event),event.halt(),,event.stopPropagation()
+6819bf70134efd20d564fa16,84,event handling,Which component lifecycle is NOT required for click handling?,componentDidMount,render,componentDidUpdate,componentWillUnmount,,componentDidUpdate
+6819bf70134efd20d564fa17,85,event handling,What does `event.target` return?,The element that triggered the event,The function reference,The parent element,The React component,,The element that triggered the event
+6819bf70134efd20d564fa18,86,event handling,Can you have multiple click handlers on one element?,No,Yes with chaining,Yes using one handler,Only in class components,,Yes using one handler
+6819bf70134efd20d564fa19,87,event handling,What’s the main benefit of using arrow functions in event handlers?,They bind 'this' automatically,They are faster,They avoid rendering,They prevent event bubbling,,They bind 'this' automatically
+6819bf70134efd20d564fa1a,88,event handling,Which hook is commonly used with event handling in functional components?,useState,useEffect,useCallback,All of the above,,All of the above
+6819bf70134efd20d564fa1b,89,event handling,Which is correct for conditional click handler?,onClick={isEnabled ? handleClick : null},onClick={handleClick if isEnabled},onClick: isEnabled && handleClick,onClick=handleClick && isEnabled,,onClick={isEnabled ? handleClick : null}
+6819bf70134efd20d564fa1c,90,event handling,What will `event.preventDefault()` do in a link click handler?,Prevent navigation,Stop rendering,Disable button,Clear input,,Prevent navigation
+6819bf70134efd20d564fa1d,91,event handling,Is event handling in React synchronous or asynchronous?,Synchronous,Asynchronous,Both,Depends on event,,Synchronous
+6819bf70134efd20d564fa1e,92,event handling,Which attribute is NOT used for click handling?,onSubmit,onClick,onDoubleClick,onMouseDown,,onSubmit
+6819bf70134efd20d564fa1f,93,event handling,How to conditionally prevent an onClick event?,Use an if block inside handler,Use stop() function,Use onClick={null},Disable the button,,Use an if block inside handler
+6819bf70134efd20d564fa20,94,event handling,How do you access event details in React?,Through event object,Using DOM API,With useState,With props,,Through event object
+6819bf70134efd20d564fa21,95,event handling,Click events bubble up to which element by default?,Parent DOM nodes,Siblings,React root,Global window,,Parent DOM nodes
+6819bf70134efd20d564fa22,96,event handling,Can you use arrow functions inline for click handlers?,Yes,No,Only outside JSX,Only in ES6 classes,,Yes
+6819bf70134efd20d564fa23,97,event handling,What happens when you bind a method inside render?,It creates a new function each render,It caches the function,It improves performance,It throws an error,,It creates a new function each render
+6819bf70134efd20d564fa24,98,event handling,What is the best practice for performance in frequent click handlers?,Use useCallback,Bind inline,Use async,Disable event,,Use useCallback
+6819bf70134efd20d564fa25,99,event handling,"In React, which synthetic event property tells if shift key was held during click?",event.shiftKey,event.modifier,event.keyShift,event.ctrl,,event.shiftKey
+6819bf70134efd20d564fa26,100,event handling,How can you prevent click handler memory leaks?,Clean up in useEffect,Avoid using useState,Use global event listeners,Use arrow functions only,,Clean up in useEffect
