@@ -71,8 +71,39 @@ console.log("Doubled: ", doubled); // [2, 4, 6, 8, 10]
 console.log("Even Numbers: ", evenNumbers); // [2, 4]
 console.log("Sum of Numbers: ", sumOfNumbers); // 15
 
-for (let i = 0; i < numbers.length; i++) {
-  doubled.push(numbers[i] * 2); //map
-  if (numbers[i] % 2 == 0) evenNumbers.push(numbers[i]); //filter
-  sumOfNumbers += numbers[i]; //reduce
-}
+// for (let i = 0; i < numbers.length; i++) {
+//   doubled.push(numbers[i] * 2); //map
+//   if (numbers[i] % 2 == 0) evenNumbers.push(numbers[i]); //filter
+//   sumOfNumbers += numbers[i]; //reduce
+// }
+
+//promises
+// request -> fronted -> backend -> database
+// response -> database -> backend ->(promise) frontend
+
+//promise declaration
+//pending -> fulfilled -> rejected
+const promise1 = new Promise((resolve, reject) => {
+  //data fetch
+  const love = true; // true or false
+
+  if (love) {
+    resolve("143");
+  } else {
+    reject("Broken Heart");
+  }
+});
+
+promise1
+  .then((data) => {
+    console.log("String: ", data);
+    data = parseInt(data);
+    return data; // 143
+  })
+  .then((data) => {
+    data = data + 1;
+    console.log("Number: ", data);
+  })
+  .catch((error) => {
+    console.log(error);
+  });

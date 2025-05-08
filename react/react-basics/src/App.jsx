@@ -1,3 +1,4 @@
+import UserDetails from "./apiFetch/UserDetails";
 import "./App.css";
 import MainLayout from "./components/MainLayout";
 import Employee from "./mapFilterReduce/Employee";
@@ -65,7 +66,10 @@ function App() {
       {/* <Employee /> */}
 
       {/* useEffect  */}
-      <MouseTrackerApp />
+      {/* <MouseTrackerApp /> */}
+
+      {/* apiFetch  */}
+      <UserDetails />
     </>
   );
 }

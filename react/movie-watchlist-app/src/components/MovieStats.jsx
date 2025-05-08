@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { useMovie } from "../context/MovieContext";
 
-const MovieStats = () => {
+const MovieStats = ({ movies1 }) => {
   const { movies } = useMovie();
   const [genreCount, setGenreCount] = useState({});
 
