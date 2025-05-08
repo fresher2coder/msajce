@@ -47,10 +47,12 @@ function UserDetails() {
 
   return (
     <>
-      {error && <h1 className="error">{error}</h1>}
-      <section className="user-details">
-        {users && users.map((user) => <UserCard key={user.id} user={user} />)}
-      </section>
+      <div className="user-con">
+        {error && <h1 className="error">{error}</h1>}
+        <section className="user-details">
+          {users && users.map((user) => <UserCard key={user.id} user={user} />)}
+        </section>
+      </div>
     </>
   );
 }

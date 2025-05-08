@@ -185,16 +185,6 @@ main {
   box-sizing: border-box;
 }
 
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-}
-
 /* Counter section styles */
 .counter {
   background-color: #ffffff;
@@ -427,12 +417,18 @@ body {
   margin-top: 40px;
 }
 
-/* Container for all user cards */
+/* Outer container */
+.user-con {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Grid layout for user cards */
 .user-details {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 fixed columns */
   gap: 20px;
-  justify-content: center;
+  padding: 20px 0;
 }
 
 /* Individual user card */
@@ -441,8 +437,7 @@ body {
   padding: 16px;
   border: 1px solid #ddd;
   border-radius: 8px;
-  width: 300px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
 .user-card h2 {
@@ -455,5 +450,18 @@ body {
 }
 
 .user-card strong {
-  color: #555;
+  color: #444;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .user-details {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .user-details {
+    grid-template-columns: 1fr;
+  }
 }
