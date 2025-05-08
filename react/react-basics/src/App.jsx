@@ -1,6 +1,7 @@
 import UserDetails from "./apiFetch/UserDetails";
 import "./App.css";
 import MainLayout from "./components/MainLayout";
+import StudentDetails from "./formHandling/StudentDetails";
 import Employee from "./mapFilterReduce/Employee";
 import Parent from "./props/propsMethod/Parent";
 import UserLayout from "./props/UserLayout";
@@ -69,7 +70,10 @@ function App() {
       {/* <MouseTrackerApp /> */}
 
       {/* apiFetch  */}
-      <UserDetails />
+      {/* <UserDetails /> */}
+
+      {/* form handling */}
+      <StudentDetails />
     </>
   );
 }
