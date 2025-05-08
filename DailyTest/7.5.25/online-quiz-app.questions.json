@@ -1,0 +1,1500 @@
+[{
+  "_id": {
+    "$oid": "1027ff56d9f544bfbb1519a7"
+  },
+  "id": 101,
+  "topic": "conditional_rendering",
+  "question": "What is conditional rendering in React?",
+  "options": [
+    "Show errors",
+    "Use condition to display",
+    "Always display",
+    "Style components"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "0567ceb44d284a52aedefade"
+  },
+  "id": 102,
+  "topic": "conditional_rendering",
+  "question": "How do you conditionally render content using && in JSX?",
+  "options": [
+    "Use condition to display",
+    "Style components",
+    "Show errors",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "fd05cb13a36c4b15a918d580"
+  },
+  "id": 103,
+  "topic": "conditional_rendering",
+  "question": "What is the ternary operator syntax for conditional rendering?",
+  "options": [
+    "Use condition to display",
+    "Style components",
+    "Always display",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "f683b52593fc4a82b90e69e4"
+  },
+  "id": 104,
+  "topic": "conditional_rendering",
+  "question": "Can you use if-else directly inside JSX?",
+  "options": [
+    "Show errors",
+    "Style components",
+    "Always display",
+    "Use condition to display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "312e6f4fcc134dcea01b6606"
+  },
+  "id": 105,
+  "topic": "conditional_rendering",
+  "question": "How do you render a fallback UI when a condition is false?",
+  "options": [
+    "Show errors",
+    "Style components",
+    "Use condition to display",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "6288e8ed305a44c69dbff7e6"
+  },
+  "id": 106,
+  "topic": "conditional_rendering",
+  "question": "What is the benefit of conditional rendering?",
+  "options": [
+    "Always display",
+    "Show errors",
+    "Style components",
+    "Use condition to display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "4e3826fc58724f33836c2963"
+  },
+  "id": 107,
+  "topic": "conditional_rendering",
+  "question": "Can you return null to render nothing?",
+  "options": [
+    "Style components",
+    "Show errors",
+    "Always display",
+    "Use condition to display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "6c061b18005c4be081a6d864"
+  },
+  "id": 108,
+  "topic": "conditional_rendering",
+  "question": "How do you conditionally render components?",
+  "options": [
+    "Style components",
+    "Use condition to display",
+    "Always display",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "0445b8c37d6544839c93de2c"
+  },
+  "id": 109,
+  "topic": "conditional_rendering",
+  "question": "What is the difference between && and ternary in JSX?",
+  "options": [
+    "Use condition to display",
+    "Show errors",
+    "Always display",
+    "Style components"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "a0779b20a6e44dbf80a959be"
+  },
+  "id": 110,
+  "topic": "conditional_rendering",
+  "question": "Is it possible to use a function to decide what to render?",
+  "options": [
+    "Use condition to display",
+    "Always display",
+    "Style components",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "65513357f5f244838bda6ea3"
+  },
+  "id": 111,
+  "topic": "conditional_rendering",
+  "question": "Can you conditionally apply CSS classes in JSX?",
+  "options": [
+    "Style components",
+    "Show errors",
+    "Use condition to display",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "882f7e16d0c8441187cb16e1"
+  },
+  "id": 112,
+  "topic": "conditional_rendering",
+  "question": "How do you show loading text until data is fetched?",
+  "options": [
+    "Use condition to display",
+    "Always display",
+    "Style components",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "26c8eef8e1c0484a94e1a4aa"
+  },
+  "id": 113,
+  "topic": "conditional_rendering",
+  "question": "What is short-circuit evaluation in JSX?",
+  "options": [
+    "Use condition to display",
+    "Show errors",
+    "Always display",
+    "Style components"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "98387d2b3ea541b1847ce57e"
+  },
+  "id": 114,
+  "topic": "conditional_rendering",
+  "question": "How do you prevent rendering using early return?",
+  "options": [
+    "Style components",
+    "Show errors",
+    "Use condition to display",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "af88bf24463f41db814f98dc"
+  },
+  "id": 115,
+  "topic": "conditional_rendering",
+  "question": "How can you use logical operators for rendering multiple options?",
+  "options": [
+    "Style components",
+    "Always display",
+    "Use condition to display",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "66cca0c19b474d3995cbbc74"
+  },
+  "id": 116,
+  "topic": "conditional_rendering",
+  "question": "Can fragments be conditionally rendered?",
+  "options": [
+    "Use condition to display",
+    "Style components",
+    "Show errors",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "a5bc7cadf9ae4b36b0ce779b"
+  },
+  "id": 117,
+  "topic": "conditional_rendering",
+  "question": "How do you hide an element based on state?",
+  "options": [
+    "Always display",
+    "Show errors",
+    "Style components",
+    "Use condition to display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "77661f7b25c34a1bb08e00c8"
+  },
+  "id": 118,
+  "topic": "conditional_rendering",
+  "question": "What happens if conditional rendering returns undefined?",
+  "options": [
+    "Style components",
+    "Use condition to display",
+    "Always display",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "7a378af318e44bc6935f0bce"
+  },
+  "id": 119,
+  "topic": "conditional_rendering",
+  "question": "How do you render based on an array's length?",
+  "options": [
+    "Always display",
+    "Show errors",
+    "Style components",
+    "Use condition to display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "c435e2aeb16e4714ad646034"
+  },
+  "id": 120,
+  "topic": "conditional_rendering",
+  "question": "How can you display alternate content for empty lists?",
+  "options": [
+    "Show errors",
+    "Use condition to display",
+    "Always display",
+    "Style components"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "12355001866e46b99062d147"
+  },
+  "id": 121,
+  "topic": "conditional_rendering",
+  "question": "How do you use optional chaining in conditional rendering?",
+  "options": [
+    "Show errors",
+    "Use condition to display",
+    "Style components",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "0d8711c2bd0d42e4a7c09f8c"
+  },
+  "id": 122,
+  "topic": "conditional_rendering",
+  "question": "What does `Boolean(value) && <Component />` do?",
+  "options": [
+    "Use condition to display",
+    "Style components",
+    "Always display",
+    "Show errors"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "8035c73d8d9d4c18bebac819"
+  },
+  "id": 123,
+  "topic": "conditional_rendering",
+  "question": "Can you render elements conditionally inside a map()?",
+  "options": [
+    "Always display",
+    "Show errors",
+    "Use condition to display",
+    "Style components"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "e4c33898de2e49adb51c01f7"
+  },
+  "id": 124,
+  "topic": "conditional_rendering",
+  "question": "How do you avoid deeply nested ternary operators?",
+  "options": [
+    "Use condition to display",
+    "Style components",
+    "Show errors",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "1611dd497ce14da88f70a61a"
+  },
+  "id": 125,
+  "topic": "conditional_rendering",
+  "question": "Is it okay to use multiple return statements in a component?",
+  "options": [
+    "Style components",
+    "Use condition to display",
+    "Show errors",
+    "Always display"
+  ],
+  "answer": "Use condition to display"
+},
+{
+  "_id": {
+    "$oid": "2132978117b142c3ad9378c0"
+  },
+  "id": 126,
+  "topic": "list_rendering",
+  "question": "How do you render a list in React?",
+  "options": [
+    "Use object",
+    "Use map to display",
+    "Use filter",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "3b96ca7fe26944cea875ca19"
+  },
+  "id": 127,
+  "topic": "list_rendering",
+  "question": "What array method is commonly used for list rendering?",
+  "options": [
+    "Use object",
+    "Use map to display",
+    "Use loop",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "d4fcbc20215d41848d188903"
+  },
+  "id": 128,
+  "topic": "list_rendering",
+  "question": "What is the purpose of the `key` prop in list rendering?",
+  "options": [
+    "Use loop",
+    "Use map to display",
+    "Use filter",
+    "Use object"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "0545baa1c5944fa3bfb4d8ce"
+  },
+  "id": 129,
+  "topic": "list_rendering",
+  "question": "Why should keys be unique in a list?",
+  "options": [
+    "Use map to display",
+    "Use filter",
+    "Use loop",
+    "Use object"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "4b71b63345ae45b8af1df1c0"
+  },
+  "id": 130,
+  "topic": "list_rendering",
+  "question": "Can you render components using map()?",
+  "options": [
+    "Use map to display",
+    "Use loop",
+    "Use filter",
+    "Use object"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "263ea91c636843c5b87038cc"
+  },
+  "id": 131,
+  "topic": "list_rendering",
+  "question": "What happens if you omit the key prop?",
+  "options": [
+    "Use object",
+    "Use map to display",
+    "Use loop",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "7ecb27533bee48469a3d6787"
+  },
+  "id": 132,
+  "topic": "list_rendering",
+  "question": "What are common bugs in list rendering?",
+  "options": [
+    "Use map to display",
+    "Use filter",
+    "Use loop",
+    "Use object"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "f98e51b9089644f68c584f1d"
+  },
+  "id": 133,
+  "topic": "list_rendering",
+  "question": "How do you render a list of strings?",
+  "options": [
+    "Use filter",
+    "Use loop",
+    "Use object",
+    "Use map to display"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "3935dfd3a31b4725b0bd4c3b"
+  },
+  "id": 134,
+  "topic": "list_rendering",
+  "question": "How do you render a list of objects?",
+  "options": [
+    "Use map to display",
+    "Use filter",
+    "Use object",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "6797c48aa10244a89d269929"
+  },
+  "id": 135,
+  "topic": "list_rendering",
+  "question": "Can you destructure properties inside map?",
+  "options": [
+    "Use filter",
+    "Use object",
+    "Use map to display",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "051022b881aa416cab1755be"
+  },
+  "id": 136,
+  "topic": "list_rendering",
+  "question": "Can you nest lists inside lists in React?",
+  "options": [
+    "Use map to display",
+    "Use object",
+    "Use loop",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "7eafce4d937e4382a9e5f791"
+  },
+  "id": 137,
+  "topic": "list_rendering",
+  "question": "Why is using index as key discouraged?",
+  "options": [
+    "Use map to display",
+    "Use object",
+    "Use filter",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "a8e0bcc193864971bd2df462"
+  },
+  "id": 138,
+  "topic": "list_rendering",
+  "question": "How do you update a rendered list when state changes?",
+  "options": [
+    "Use filter",
+    "Use object",
+    "Use map to display",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "df943eb9ac314e9d8cc12945"
+  },
+  "id": 139,
+  "topic": "list_rendering",
+  "question": "How do you conditionally render list items?",
+  "options": [
+    "Use loop",
+    "Use map to display",
+    "Use object",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "7ac4417cbb714d6ca0ba9ee1"
+  },
+  "id": 140,
+  "topic": "list_rendering",
+  "question": "How can you show a message if the list is empty?",
+  "options": [
+    "Use map to display",
+    "Use object",
+    "Use loop",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "ad01ca46c13743d391a57603"
+  },
+  "id": 141,
+  "topic": "list_rendering",
+  "question": "Can you combine filter and map for rendering?",
+  "options": [
+    "Use map to display",
+    "Use filter",
+    "Use object",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "316e7fdce6fe4d99afa61eaa"
+  },
+  "id": 142,
+  "topic": "list_rendering",
+  "question": "How do you avoid re-rendering the entire list?",
+  "options": [
+    "Use loop",
+    "Use map to display",
+    "Use object",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "be280518ccef45ce9dad1c4d"
+  },
+  "id": 143,
+  "topic": "list_rendering",
+  "question": "What is the role of unique identifiers in rendering?",
+  "options": [
+    "Use map to display",
+    "Use filter",
+    "Use loop",
+    "Use object"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "8f24951829304228986e30fa"
+  },
+  "id": 144,
+  "topic": "list_rendering",
+  "question": "How do you render a list from fetched data?",
+  "options": [
+    "Use object",
+    "Use map to display",
+    "Use loop",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "6a230372ad9a461f870bbec2"
+  },
+  "id": 145,
+  "topic": "list_rendering",
+  "question": "Can you animate list items when they appear?",
+  "options": [
+    "Use object",
+    "Use map to display",
+    "Use filter",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "90a75edada134c0d9fa78fe5"
+  },
+  "id": 146,
+  "topic": "list_rendering",
+  "question": "How do you pass props to each rendered item?",
+  "options": [
+    "Use filter",
+    "Use loop",
+    "Use object",
+    "Use map to display"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "001eba90a64341039a9b2bcb"
+  },
+  "id": 147,
+  "topic": "list_rendering",
+  "question": "How do you use fragments inside a list?",
+  "options": [
+    "Use filter",
+    "Use loop",
+    "Use object",
+    "Use map to display"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "f2029f3b486c4feda40ea3d5"
+  },
+  "id": 148,
+  "topic": "list_rendering",
+  "question": "Can you return multiple elements from a map function?",
+  "options": [
+    "Use object",
+    "Use map to display",
+    "Use loop",
+    "Use filter"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "fd4c9a25cc7d484db5df0b7c"
+  },
+  "id": 149,
+  "topic": "list_rendering",
+  "question": "How do you style individual list items?",
+  "options": [
+    "Use filter",
+    "Use object",
+    "Use loop",
+    "Use map to display"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "ebaaaff307d045bc872a06a3"
+  },
+  "id": 150,
+  "topic": "list_rendering",
+  "question": "What happens if list items have the same key?",
+  "options": [
+    "Use map to display",
+    "Use filter",
+    "Use object",
+    "Use loop"
+  ],
+  "answer": "Use map to display"
+},
+{
+  "_id": {
+    "$oid": "0de10c6340a44b01bc55c0d5"
+  },
+  "id": 151,
+  "topic": "use_effect",
+  "question": "What is useEffect used for in React?",
+  "options": [
+    "Render JSX",
+    "Manage side effects",
+    "Manage state",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "f5b6cb0fd7634acf88615b5f"
+  },
+  "id": 152,
+  "topic": "use_effect",
+  "question": "How do you import useEffect?",
+  "options": [
+    "Render JSX",
+    "Manage state",
+    "Declare hooks",
+    "Manage side effects"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "7885c1f056cf47baa16bc21a"
+  },
+  "id": 153,
+  "topic": "use_effect",
+  "question": "When does useEffect run?",
+  "options": [
+    "Manage state",
+    "Manage side effects",
+    "Render JSX",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "77facb4c75fb403aa39beb21"
+  },
+  "id": 154,
+  "topic": "use_effect",
+  "question": "How do you run code only once with useEffect?",
+  "options": [
+    "Manage state",
+    "Manage side effects",
+    "Render JSX",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "4f86ecfeccd0464f9c3b03cd"
+  },
+  "id": 155,
+  "topic": "use_effect",
+  "question": "What does the empty dependency array mean in useEffect?",
+  "options": [
+    "Render JSX",
+    "Manage side effects",
+    "Manage state",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "7212c4155d754510a1edd014"
+  },
+  "id": 156,
+  "topic": "use_effect",
+  "question": "How do you run useEffect on state change?",
+  "options": [
+    "Manage side effects",
+    "Manage state",
+    "Render JSX",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "82e94e0d931a42afa7f0782f"
+  },
+  "id": 157,
+  "topic": "use_effect",
+  "question": "How do you use multiple useEffects in a component?",
+  "options": [
+    "Render JSX",
+    "Manage side effects",
+    "Declare hooks",
+    "Manage state"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "4eb4b46fe27147059e98a2d8"
+  },
+  "id": 158,
+  "topic": "use_effect",
+  "question": "Can you use async/await inside useEffect?",
+  "options": [
+    "Render JSX",
+    "Manage state",
+    "Declare hooks",
+    "Manage side effects"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "3e0c4e59db6d4935835f1a5f"
+  },
+  "id": 159,
+  "topic": "use_effect",
+  "question": "What is the purpose of the cleanup function in useEffect?",
+  "options": [
+    "Manage side effects",
+    "Declare hooks",
+    "Render JSX",
+    "Manage state"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "4ca9d8a4d00249da91e7622e"
+  },
+  "id": 160,
+  "topic": "use_effect",
+  "question": "When is the cleanup function in useEffect called?",
+  "options": [
+    "Manage state",
+    "Manage side effects",
+    "Render JSX",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "c97997fe21b146bea60c7893"
+  },
+  "id": 161,
+  "topic": "use_effect",
+  "question": "How do you fetch data using useEffect?",
+  "options": [
+    "Manage state",
+    "Manage side effects",
+    "Declare hooks",
+    "Render JSX"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "a012427da53c432b9c1cfacb"
+  },
+  "id": 162,
+  "topic": "use_effect",
+  "question": "Can you use useEffect to set timers?",
+  "options": [
+    "Declare hooks",
+    "Manage state",
+    "Manage side effects",
+    "Render JSX"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "7e57343abafc472f82d92daa"
+  },
+  "id": 163,
+  "topic": "use_effect",
+  "question": "Can you return more than one cleanup function?",
+  "options": [
+    "Manage state",
+    "Manage side effects",
+    "Render JSX",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "e8c2817e7cb44ceca584090b"
+  },
+  "id": 164,
+  "topic": "use_effect",
+  "question": "How do you conditionally call useEffect?",
+  "options": [
+    "Declare hooks",
+    "Manage state",
+    "Render JSX",
+    "Manage side effects"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "9afddf4f1c194186a5c7c62b"
+  },
+  "id": 165,
+  "topic": "use_effect",
+  "question": "What happens if you forget the dependency array?",
+  "options": [
+    "Manage side effects",
+    "Declare hooks",
+    "Render JSX",
+    "Manage state"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "e1f5f0b6ea194b14962b6f38"
+  },
+  "id": 166,
+  "topic": "use_effect",
+  "question": "What are common pitfalls using useEffect?",
+  "options": [
+    "Render JSX",
+    "Declare hooks",
+    "Manage state",
+    "Manage side effects"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "3d9bfe28852e4c0284f77829"
+  },
+  "id": 167,
+  "topic": "use_effect",
+  "question": "Can you use state setters inside useEffect?",
+  "options": [
+    "Declare hooks",
+    "Manage side effects",
+    "Manage state",
+    "Render JSX"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "0bf6db2903044028bd2a8183"
+  },
+  "id": 168,
+  "topic": "use_effect",
+  "question": "How do you avoid infinite loops in useEffect?",
+  "options": [
+    "Manage state",
+    "Manage side effects",
+    "Declare hooks",
+    "Render JSX"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "6efd0582bb9a4d17979f5fe8"
+  },
+  "id": 169,
+  "topic": "use_effect",
+  "question": "How do you detect prop changes using useEffect?",
+  "options": [
+    "Manage state",
+    "Declare hooks",
+    "Manage side effects",
+    "Render JSX"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "002d37b822c745fabf184825"
+  },
+  "id": 170,
+  "topic": "use_effect",
+  "question": "Can you trigger animations using useEffect?",
+  "options": [
+    "Render JSX",
+    "Manage state",
+    "Manage side effects",
+    "Declare hooks"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "1628b56e655b492685270176"
+  },
+  "id": 171,
+  "topic": "use_effect",
+  "question": "How does useEffect relate to componentDidMount?",
+  "options": [
+    "Declare hooks",
+    "Manage side effects",
+    "Render JSX",
+    "Manage state"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "ac787db7efb04df784c460c0"
+  },
+  "id": 172,
+  "topic": "use_effect",
+  "question": "How does useEffect relate to componentWillUnmount?",
+  "options": [
+    "Declare hooks",
+    "Manage state",
+    "Manage side effects",
+    "Render JSX"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "042b31828fcc4f968adf3412"
+  },
+  "id": 173,
+  "topic": "use_effect",
+  "question": "How can useEffect be used to update the DOM?",
+  "options": [
+    "Manage state",
+    "Render JSX",
+    "Declare hooks",
+    "Manage side effects"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "e98f66a43b06465ea3c5ce3f"
+  },
+  "id": 174,
+  "topic": "use_effect",
+  "question": "How do you stop an API call in cleanup?",
+  "options": [
+    "Render JSX",
+    "Declare hooks",
+    "Manage side effects",
+    "Manage state"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "aa4674df5429447f9c6f9ed1"
+  },
+  "id": 175,
+  "topic": "use_effect",
+  "question": "How do you watch multiple dependencies?",
+  "options": [
+    "Manage side effects",
+    "Render JSX",
+    "Declare hooks",
+    "Manage state"
+  ],
+  "answer": "Manage side effects"
+},
+{
+  "_id": {
+    "$oid": "788a33c1b210421f8edae9e4"
+  },
+  "id": 176,
+  "topic": "lifecycle_functional",
+  "question": "How do lifecycle methods work in functional components?",
+  "options": [
+    "Using useState",
+    "Using useEffect",
+    "Using constructor",
+    "Using render"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "410e13f159c345d2af80c1a6"
+  },
+  "id": 177,
+  "topic": "lifecycle_functional",
+  "question": "Which hook replaces componentDidMount?",
+  "options": [
+    "Using constructor",
+    "Using useEffect",
+    "Using render",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "20b7510071a24da7b6ec499c"
+  },
+  "id": 178,
+  "topic": "lifecycle_functional",
+  "question": "Which hook replaces componentDidUpdate?",
+  "options": [
+    "Using useState",
+    "Using useEffect",
+    "Using render",
+    "Using constructor"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "92626d6e0772493baf7b869d"
+  },
+  "id": 179,
+  "topic": "lifecycle_functional",
+  "question": "Which hook replaces componentWillUnmount?",
+  "options": [
+    "Using render",
+    "Using constructor",
+    "Using useEffect",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "abd3ed9fb06445e8b67d2050"
+  },
+  "id": 180,
+  "topic": "lifecycle_functional",
+  "question": "How do you simulate componentDidMount in useEffect?",
+  "options": [
+    "Using useEffect",
+    "Using constructor",
+    "Using render",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "8b0001acd0db4b4e86c7d652"
+  },
+  "id": 181,
+  "topic": "lifecycle_functional",
+  "question": "How do you simulate componentWillUnmount in useEffect?",
+  "options": [
+    "Using useEffect",
+    "Using constructor",
+    "Using render",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "3da3f9d07d13412197af0bd1"
+  },
+  "id": 182,
+  "topic": "lifecycle_functional",
+  "question": "How do you detect prop changes in functional components?",
+  "options": [
+    "Using constructor",
+    "Using useState",
+    "Using useEffect",
+    "Using render"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "7b9ab8009c5b4ac9989003c5"
+  },
+  "id": 183,
+  "topic": "lifecycle_functional",
+  "question": "Can you combine lifecycle behaviors in a single useEffect?",
+  "options": [
+    "Using useState",
+    "Using render",
+    "Using constructor",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "f967fc6d701f44ebb38defc5"
+  },
+  "id": 184,
+  "topic": "lifecycle_functional",
+  "question": "What is the equivalent of all lifecycle methods in one useEffect?",
+  "options": [
+    "Using constructor",
+    "Using render",
+    "Using useEffect",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "e58185ecab3c448c99bacc38"
+  },
+  "id": 185,
+  "topic": "lifecycle_functional",
+  "question": "How do you clean up timers or subscriptions?",
+  "options": [
+    "Using constructor",
+    "Using render",
+    "Using useState",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "b7c204843e354e579cb0d79e"
+  },
+  "id": 186,
+  "topic": "lifecycle_functional",
+  "question": "How do you log when a component mounts and unmounts?",
+  "options": [
+    "Using render",
+    "Using constructor",
+    "Using useEffect",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "994c6ff74c3d4d79808d74aa"
+  },
+  "id": 187,
+  "topic": "lifecycle_functional",
+  "question": "How do you fetch data when a component loads?",
+  "options": [
+    "Using constructor",
+    "Using render",
+    "Using useState",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "6028b75a10b14e78857d2399"
+  },
+  "id": 188,
+  "topic": "lifecycle_functional",
+  "question": "What is the role of useEffect in lifecycle simulation?",
+  "options": [
+    "Using render",
+    "Using constructor",
+    "Using useEffect",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "8dcd6c5ea66f44e18d3fc7c9"
+  },
+  "id": 189,
+  "topic": "lifecycle_functional",
+  "question": "Can you track re-renders using lifecycle in functional components?",
+  "options": [
+    "Using constructor",
+    "Using useState",
+    "Using useEffect",
+    "Using render"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "9b03e695747647a784aaca72"
+  },
+  "id": 190,
+  "topic": "lifecycle_functional",
+  "question": "How can you mimic shouldComponentUpdate?",
+  "options": [
+    "Using useEffect",
+    "Using constructor",
+    "Using render",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "3d4cc0eebaac4682b545ac24"
+  },
+  "id": 191,
+  "topic": "lifecycle_functional",
+  "question": "Can you prevent re-rendering in functional components?",
+  "options": [
+    "Using render",
+    "Using constructor",
+    "Using useState",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "2715b3ddcd204ced9c1821bd"
+  },
+  "id": 192,
+  "topic": "lifecycle_functional",
+  "question": "What is useRef’s role in lifecycle management?",
+  "options": [
+    "Using useState",
+    "Using useEffect",
+    "Using constructor",
+    "Using render"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "0b4c9124e2eb4954b79ce1e0"
+  },
+  "id": 193,
+  "topic": "lifecycle_functional",
+  "question": "How do you detect first render vs re-render?",
+  "options": [
+    "Using useState",
+    "Using render",
+    "Using constructor",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "5ba727fdc638421cbf9c5a4f"
+  },
+  "id": 194,
+  "topic": "lifecycle_functional",
+  "question": "How do you handle side effects on unmount?",
+  "options": [
+    "Using render",
+    "Using useEffect",
+    "Using constructor",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "1f7c0ce6860a4df389d8e0e2"
+  },
+  "id": 195,
+  "topic": "lifecycle_functional",
+  "question": "What hook helps monitor lifecycle events?",
+  "options": [
+    "Using useEffect",
+    "Using constructor",
+    "Using render",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "3a756b7bdff746509d542493"
+  },
+  "id": 196,
+  "topic": "lifecycle_functional",
+  "question": "How do you simulate constructor logic in functional components?",
+  "options": [
+    "Using useEffect",
+    "Using constructor",
+    "Using useState",
+    "Using render"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "e2d69127dabc466d87ebd09a"
+  },
+  "id": 197,
+  "topic": "lifecycle_functional",
+  "question": "How do you check if component is still mounted?",
+  "options": [
+    "Using render",
+    "Using constructor",
+    "Using useEffect",
+    "Using useState"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "869081c99b6440268693ee2f"
+  },
+  "id": 198,
+  "topic": "lifecycle_functional",
+  "question": "What lifecycle phase is ideal for logging props?",
+  "options": [
+    "Using useEffect",
+    "Using useState",
+    "Using render",
+    "Using constructor"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "0689577bb2214c9c94482abf"
+  },
+  "id": 199,
+  "topic": "lifecycle_functional",
+  "question": "Can useEffect replace all class lifecycle methods?",
+  "options": [
+    "Using useState",
+    "Using constructor",
+    "Using render",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+},
+{
+  "_id": {
+    "$oid": "9878643caf224b868b6f0bcb"
+  },
+  "id": 200,
+  "topic": "lifecycle_functional",
+  "question": "How do you isolate logic for lifecycle-like behaviors?",
+  "options": [
+    "Using useState",
+    "Using render",
+    "Using constructor",
+    "Using useEffect"
+  ],
+  "answer": "Using useEffect"
+}]
