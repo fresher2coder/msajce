@@ -1,0 +1,1875 @@
+[{
+  "_id": {
+    "$oid": "99f8426cddad42069ae7abfb"
+  },
+  "id": 301,
+  "topic": "form_handling",
+  "question": "How do you handle form inputs in React?",
+  "options": [
+    "Use styles",
+    "Use state with inputs",
+    "Use class refs",
+    "Use loops"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "5fa10aaf732b4ab2a4b9bfe5"
+  },
+  "id": 302,
+  "topic": "form_handling",
+  "question": "What event is used to detect changes in input fields?",
+  "options": [
+    "Use loops",
+    "Use class refs",
+    "Use styles",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "6aab02b91d4043528b3dcc47"
+  },
+  "id": 303,
+  "topic": "form_handling",
+  "question": "How do you prevent default form submission?",
+  "options": [
+    "Use state with inputs",
+    "Use loops",
+    "Use styles",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "7d3d9b316d0243d38e442930"
+  },
+  "id": 304,
+  "topic": "form_handling",
+  "question": "Which attribute holds the current value of an input?",
+  "options": [
+    "Use loops",
+    "Use styles",
+    "Use class refs",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "2aa154780cce410c8e2e3b80"
+  },
+  "id": 305,
+  "topic": "form_handling",
+  "question": "How do you access the value entered in an input field?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use state with inputs",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "4cc0a88b9b8a4c7b919ba7e2"
+  },
+  "id": 306,
+  "topic": "form_handling",
+  "question": "How do you submit a form in React?",
+  "options": [
+    "Use styles",
+    "Use class refs",
+    "Use state with inputs",
+    "Use loops"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "5d56acd238b44821ad74f556"
+  },
+  "id": 307,
+  "topic": "form_handling",
+  "question": "How do you reset form fields in React?",
+  "options": [
+    "Use class refs",
+    "Use styles",
+    "Use loops",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "df94e6d26e4748d9af1e25a6"
+  },
+  "id": 308,
+  "topic": "form_handling",
+  "question": "What function handles the input change?",
+  "options": [
+    "Use class refs",
+    "Use styles",
+    "Use loops",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "91f2ba6c795c4eac9cf51dcb"
+  },
+  "id": 309,
+  "topic": "form_handling",
+  "question": "Can you use one function to handle multiple inputs?",
+  "options": [
+    "Use class refs",
+    "Use state with inputs",
+    "Use styles",
+    "Use loops"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "d4272fc101e7467795b1a60a"
+  },
+  "id": 310,
+  "topic": "form_handling",
+  "question": "How do you read form data on submit?",
+  "options": [
+    "Use state with inputs",
+    "Use loops",
+    "Use class refs",
+    "Use styles"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "ddf7aa3654ec4d94bffbbef6"
+  },
+  "id": 311,
+  "topic": "form_handling",
+  "question": "What is the role of event.target.name?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use class refs",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "e255e08f93c5471d86d0f14a"
+  },
+  "id": 312,
+  "topic": "form_handling",
+  "question": "What is the controlled form pattern?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use class refs",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "7b8f286f46d64d3dbe89a67b"
+  },
+  "id": 313,
+  "topic": "form_handling",
+  "question": "How do you structure form state in React?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use state with inputs",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "494939da874e489a92d06026"
+  },
+  "id": 314,
+  "topic": "form_handling",
+  "question": "How do you pass form values to a parent component?",
+  "options": [
+    "Use state with inputs",
+    "Use loops",
+    "Use class refs",
+    "Use styles"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "f35dede5ebac431187448f35"
+  },
+  "id": 315,
+  "topic": "form_handling",
+  "question": "How do you disable a button until all fields are filled?",
+  "options": [
+    "Use state with inputs",
+    "Use styles",
+    "Use loops",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "5451e7b28d6c496e9efd8adf"
+  },
+  "id": 316,
+  "topic": "form_handling",
+  "question": "What happens if input field has no value bound?",
+  "options": [
+    "Use styles",
+    "Use class refs",
+    "Use loops",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "d608f32507b54f9c93c42cb9"
+  },
+  "id": 317,
+  "topic": "form_handling",
+  "question": "How do you bind form fields to state?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use state with inputs",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "900af9d0349d4cf9885f9691"
+  },
+  "id": 318,
+  "topic": "form_handling",
+  "question": "How do you handle checkbox input?",
+  "options": [
+    "Use class refs",
+    "Use styles",
+    "Use loops",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "ee111da65f274f19b1401fdf"
+  },
+  "id": 319,
+  "topic": "form_handling",
+  "question": "How do you handle radio buttons in forms?",
+  "options": [
+    "Use state with inputs",
+    "Use loops",
+    "Use class refs",
+    "Use styles"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "c0a5454e0d324759803c463f"
+  },
+  "id": 320,
+  "topic": "form_handling",
+  "question": "How do you handle select dropdowns in React?",
+  "options": [
+    "Use styles",
+    "Use class refs",
+    "Use state with inputs",
+    "Use loops"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "d4c5a0d3932240e387f111eb"
+  },
+  "id": 321,
+  "topic": "form_handling",
+  "question": "How do you display validation messages under input?",
+  "options": [
+    "Use styles",
+    "Use class refs",
+    "Use state with inputs",
+    "Use loops"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "717ce12f46094cee8ec42f76"
+  },
+  "id": 322,
+  "topic": "form_handling",
+  "question": "How do you prevent reloading the page on submit?",
+  "options": [
+    "Use styles",
+    "Use state with inputs",
+    "Use loops",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "b0b396cb63914ebf8cf06ff9"
+  },
+  "id": 323,
+  "topic": "form_handling",
+  "question": "How do you create reusable form components?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use class refs",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "19de450240d34a9cbcb449d0"
+  },
+  "id": 324,
+  "topic": "form_handling",
+  "question": "How do you prefill a form with existing data?",
+  "options": [
+    "Use styles",
+    "Use loops",
+    "Use class refs",
+    "Use state with inputs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "1e88e43e8be04774ab25468f"
+  },
+  "id": 325,
+  "topic": "form_handling",
+  "question": "What is the use of defaultValue in input fields?",
+  "options": [
+    "Use state with inputs",
+    "Use loops",
+    "Use styles",
+    "Use class refs"
+  ],
+  "answer": "Use state with inputs"
+},
+{
+  "_id": {
+    "$oid": "e7b821c412c543c3b12b5991"
+  },
+  "id": 326,
+  "topic": "validation_no_regex",
+  "question": "How do you validate empty input in React?",
+  "options": [
+    "Check conditions in JS",
+    "Use regex only",
+    "Ignore validation",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "363cbdbb299b4c9bb554b190"
+  },
+  "id": 327,
+  "topic": "validation_no_regex",
+  "question": "How do you display an error if a field is empty?",
+  "options": [
+    "Check conditions in JS",
+    "Use regex only",
+    "Use HTML only",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "6adc974bbf9949d7a1f433b5"
+  },
+  "id": 328,
+  "topic": "validation_no_regex",
+  "question": "How do you check if two passwords match?",
+  "options": [
+    "Use HTML only",
+    "Ignore validation",
+    "Check conditions in JS",
+    "Use regex only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "d3caa47e3d604f089fa82140"
+  },
+  "id": 329,
+  "topic": "validation_no_regex",
+  "question": "How do you validate age is greater than 18?",
+  "options": [
+    "Ignore validation",
+    "Use HTML only",
+    "Use regex only",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "d330888f108d451ebc7e94d8"
+  },
+  "id": 330,
+  "topic": "validation_no_regex",
+  "question": "How do you validate input length without regex?",
+  "options": [
+    "Use HTML only",
+    "Check conditions in JS",
+    "Use regex only",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "0b122ced96384f8baf5c63ab"
+  },
+  "id": 331,
+  "topic": "validation_no_regex",
+  "question": "How do you validate email contains '@' without regex?",
+  "options": [
+    "Ignore validation",
+    "Use HTML only",
+    "Use regex only",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "529fecc70fc4458f95e6f24d"
+  },
+  "id": 332,
+  "topic": "validation_no_regex",
+  "question": "How do you show error messages only after touch?",
+  "options": [
+    "Use regex only",
+    "Use HTML only",
+    "Ignore validation",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "988fa8fcc70c4bf1978bfbd4"
+  },
+  "id": 333,
+  "topic": "validation_no_regex",
+  "question": "How do you prevent form submission on error?",
+  "options": [
+    "Check conditions in JS",
+    "Use regex only",
+    "Ignore validation",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "eac26746c6fc44b4bcd459fe"
+  },
+  "id": 334,
+  "topic": "validation_no_regex",
+  "question": "How do you disable a submit button on invalid form?",
+  "options": [
+    "Use regex only",
+    "Ignore validation",
+    "Use HTML only",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "4285ad24e47c43d69d53a011"
+  },
+  "id": 335,
+  "topic": "validation_no_regex",
+  "question": "How do you validate confirm password field?",
+  "options": [
+    "Ignore validation",
+    "Use regex only",
+    "Use HTML only",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "9c43b37056174e1d854e79ec"
+  },
+  "id": 336,
+  "topic": "validation_no_regex",
+  "question": "How do you conditionally render validation messages?",
+  "options": [
+    "Use HTML only",
+    "Ignore validation",
+    "Use regex only",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "fa1638c7ce93443da480cf36"
+  },
+  "id": 337,
+  "topic": "validation_no_regex",
+  "question": "How do you show validation for each field?",
+  "options": [
+    "Use HTML only",
+    "Ignore validation",
+    "Use regex only",
+    "Check conditions in JS"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "b4dbacedf99c407ebab0a0b2"
+  },
+  "id": 338,
+  "topic": "validation_no_regex",
+  "question": "How do you use Boolean logic in validation?",
+  "options": [
+    "Check conditions in JS",
+    "Ignore validation",
+    "Use HTML only",
+    "Use regex only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "952d60daff57429f8d46e317"
+  },
+  "id": 339,
+  "topic": "validation_no_regex",
+  "question": "How do you clear validation errors?",
+  "options": [
+    "Use HTML only",
+    "Use regex only",
+    "Check conditions in JS",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "2bea2ca0d34d43f2b262c677"
+  },
+  "id": 340,
+  "topic": "validation_no_regex",
+  "question": "How do you validate a dropdown selection?",
+  "options": [
+    "Ignore validation",
+    "Check conditions in JS",
+    "Use regex only",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "672d1ddbf6bf47ff839a10d3"
+  },
+  "id": 341,
+  "topic": "validation_no_regex",
+  "question": "How do you trigger validation on blur?",
+  "options": [
+    "Use regex only",
+    "Ignore validation",
+    "Check conditions in JS",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "f03430f97dfa45d1943ebcff"
+  },
+  "id": 342,
+  "topic": "validation_no_regex",
+  "question": "How do you validate number input range?",
+  "options": [
+    "Check conditions in JS",
+    "Ignore validation",
+    "Use HTML only",
+    "Use regex only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "7d1fd491bae141f588febbad"
+  },
+  "id": 343,
+  "topic": "validation_no_regex",
+  "question": "How do you show success message on validation pass?",
+  "options": [
+    "Check conditions in JS",
+    "Ignore validation",
+    "Use regex only",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "8decf0cb688043ecb305d166"
+  },
+  "id": 344,
+  "topic": "validation_no_regex",
+  "question": "How do you handle multiple validation rules?",
+  "options": [
+    "Check conditions in JS",
+    "Use HTML only",
+    "Use regex only",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "27ecb5f654064e319f842b3f"
+  },
+  "id": 345,
+  "topic": "validation_no_regex",
+  "question": "How do you validate checkbox selection?",
+  "options": [
+    "Check conditions in JS",
+    "Use regex only",
+    "Use HTML only",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "229133c3576f4ec18990ad3d"
+  },
+  "id": 346,
+  "topic": "validation_no_regex",
+  "question": "How do you validate radio input is selected?",
+  "options": [
+    "Ignore validation",
+    "Check conditions in JS",
+    "Use HTML only",
+    "Use regex only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "3ec04cbfdb444a59ac142934"
+  },
+  "id": 347,
+  "topic": "validation_no_regex",
+  "question": "How do you validate that input is not just spaces?",
+  "options": [
+    "Ignore validation",
+    "Check conditions in JS",
+    "Use regex only",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "3c17c1f55be243d88ffd5484"
+  },
+  "id": 348,
+  "topic": "validation_no_regex",
+  "question": "How do you group validation messages?",
+  "options": [
+    "Check conditions in JS",
+    "Use regex only",
+    "Use HTML only",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "a0e757baf91345d09cf0113b"
+  },
+  "id": 349,
+  "topic": "validation_no_regex",
+  "question": "How do you validate a date is in the future?",
+  "options": [
+    "Check conditions in JS",
+    "Use regex only",
+    "Ignore validation",
+    "Use HTML only"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "ad9907a5c2774f0981a91a15"
+  },
+  "id": 350,
+  "topic": "validation_no_regex",
+  "question": "How do you validate form on submit only?",
+  "options": [
+    "Check conditions in JS",
+    "Use HTML only",
+    "Use regex only",
+    "Ignore validation"
+  ],
+  "answer": "Check conditions in JS"
+},
+{
+  "_id": {
+    "$oid": "395851b3a6bc41b5aa6da7f9"
+  },
+  "id": 351,
+  "topic": "controlled_components",
+  "question": "What is a controlled component in React?",
+  "options": [
+    "DOM controls inputs",
+    "State controls inputs",
+    "Pure CSS logic",
+    "No state involved"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "6edb266c25d343a1af994c3f"
+  },
+  "id": 352,
+  "topic": "controlled_components",
+  "question": "How do controlled components relate to state?",
+  "options": [
+    "State controls inputs",
+    "No state involved",
+    "DOM controls inputs",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "15390c218bef455a9841481e"
+  },
+  "id": 353,
+  "topic": "controlled_components",
+  "question": "What prop controls the value of a controlled input?",
+  "options": [
+    "DOM controls inputs",
+    "No state involved",
+    "Pure CSS logic",
+    "State controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "210565a0ca4b4049bce86c43"
+  },
+  "id": 354,
+  "topic": "controlled_components",
+  "question": "What event updates the state of a controlled component?",
+  "options": [
+    "DOM controls inputs",
+    "No state involved",
+    "Pure CSS logic",
+    "State controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "7719d177ca8f414986b1e44c"
+  },
+  "id": 355,
+  "topic": "controlled_components",
+  "question": "What is the key difference between controlled and uncontrolled components?",
+  "options": [
+    "Pure CSS logic",
+    "No state involved",
+    "State controls inputs",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "1c0b94a5c03f496fb650799f"
+  },
+  "id": 356,
+  "topic": "controlled_components",
+  "question": "Can you use useState for every input field?",
+  "options": [
+    "Pure CSS logic",
+    "DOM controls inputs",
+    "No state involved",
+    "State controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "84f0c066052a43d58bef46ae"
+  },
+  "id": 357,
+  "topic": "controlled_components",
+  "question": "How do you handle input validation with controlled components?",
+  "options": [
+    "Pure CSS logic",
+    "No state involved",
+    "State controls inputs",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "0df88dbec07b468d955583aa"
+  },
+  "id": 358,
+  "topic": "controlled_components",
+  "question": "How do you make a textarea controlled?",
+  "options": [
+    "No state involved",
+    "Pure CSS logic",
+    "DOM controls inputs",
+    "State controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "4752795749ef4a3c857953a6"
+  },
+  "id": 359,
+  "topic": "controlled_components",
+  "question": "How do you make a select element controlled?",
+  "options": [
+    "Pure CSS logic",
+    "DOM controls inputs",
+    "State controls inputs",
+    "No state involved"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "59d002815b914090ab749fe1"
+  },
+  "id": 360,
+  "topic": "controlled_components",
+  "question": "Can you use controlled inputs in dynamic forms?",
+  "options": [
+    "State controls inputs",
+    "No state involved",
+    "Pure CSS logic",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "2a53273c90a14f118a76c763"
+  },
+  "id": 361,
+  "topic": "controlled_components",
+  "question": "What happens if you forget value prop in a controlled input?",
+  "options": [
+    "No state involved",
+    "State controls inputs",
+    "DOM controls inputs",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "bbaacbb016054d4080336017"
+  },
+  "id": 362,
+  "topic": "controlled_components",
+  "question": "How do you update a specific field in a form state object?",
+  "options": [
+    "Pure CSS logic",
+    "State controls inputs",
+    "DOM controls inputs",
+    "No state involved"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "b2b79fc5aa274974876f4834"
+  },
+  "id": 363,
+  "topic": "controlled_components",
+  "question": "How do you handle nested form inputs?",
+  "options": [
+    "No state involved",
+    "Pure CSS logic",
+    "State controls inputs",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "8968da1e94064c0da57c5c47"
+  },
+  "id": 364,
+  "topic": "controlled_components",
+  "question": "What is the benefit of using controlled components?",
+  "options": [
+    "No state involved",
+    "DOM controls inputs",
+    "State controls inputs",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "4296a8b1eb1743768938bfb7"
+  },
+  "id": 365,
+  "topic": "controlled_components",
+  "question": "Can you use one onChange for multiple fields?",
+  "options": [
+    "Pure CSS logic",
+    "No state involved",
+    "State controls inputs",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "eb615685b7d54e09b5881cee"
+  },
+  "id": 366,
+  "topic": "controlled_components",
+  "question": "How do you prevent stale state in input?",
+  "options": [
+    "No state involved",
+    "DOM controls inputs",
+    "State controls inputs",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "1936eafa55e14d55ac016918"
+  },
+  "id": 367,
+  "topic": "controlled_components",
+  "question": "What is the role of defaultValue in controlled inputs?",
+  "options": [
+    "State controls inputs",
+    "No state involved",
+    "DOM controls inputs",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "41b12f63b0ee4778878774a5"
+  },
+  "id": 368,
+  "topic": "controlled_components",
+  "question": "What is the use of checked attribute in controlled checkboxes?",
+  "options": [
+    "No state involved",
+    "State controls inputs",
+    "Pure CSS logic",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "fe1d44a4a75344fbacc82bc1"
+  },
+  "id": 369,
+  "topic": "controlled_components",
+  "question": "How do you sync state and input value?",
+  "options": [
+    "Pure CSS logic",
+    "DOM controls inputs",
+    "State controls inputs",
+    "No state involved"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "480d0fbed85c49f0ace9332f"
+  },
+  "id": 370,
+  "topic": "controlled_components",
+  "question": "What causes re-renders in controlled components?",
+  "options": [
+    "DOM controls inputs",
+    "State controls inputs",
+    "No state involved",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "1aa60bc5e9a349f7adbeeedb"
+  },
+  "id": 371,
+  "topic": "controlled_components",
+  "question": "Can you convert an uncontrolled to a controlled component?",
+  "options": [
+    "DOM controls inputs",
+    "Pure CSS logic",
+    "No state involved",
+    "State controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "3ee8df0a31e441e487717009"
+  },
+  "id": 372,
+  "topic": "controlled_components",
+  "question": "How do you handle file inputs in controlled form?",
+  "options": [
+    "State controls inputs",
+    "DOM controls inputs",
+    "No state involved",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "0cd7a20d82ee471abb5df36e"
+  },
+  "id": 373,
+  "topic": "controlled_components",
+  "question": "What are common bugs in controlled inputs?",
+  "options": [
+    "Pure CSS logic",
+    "DOM controls inputs",
+    "State controls inputs",
+    "No state involved"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "8a7a63908cd546ecbb349dfc"
+  },
+  "id": 374,
+  "topic": "controlled_components",
+  "question": "How do you reset a controlled form?",
+  "options": [
+    "DOM controls inputs",
+    "State controls inputs",
+    "No state involved",
+    "Pure CSS logic"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "c5b9117b11474003a24121f3"
+  },
+  "id": 375,
+  "topic": "controlled_components",
+  "question": "How do you debug controlled component issues?",
+  "options": [
+    "Pure CSS logic",
+    "No state involved",
+    "State controls inputs",
+    "DOM controls inputs"
+  ],
+  "answer": "State controls inputs"
+},
+{
+  "_id": {
+    "$oid": "65511b72b393431bbe882434"
+  },
+  "id": 376,
+  "topic": "api_fetch",
+  "question": "How do you fetch API data in React?",
+  "options": [
+    "Using setTimeout",
+    "Using alert",
+    "Using fetch or axios",
+    "Using useState only"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "6d5d8fbf9c3b4b8caf7d941f"
+  },
+  "id": 377,
+  "topic": "api_fetch",
+  "question": "What hook is commonly used for API calls?",
+  "options": [
+    "Using useState only",
+    "Using setTimeout",
+    "Using fetch or axios",
+    "Using alert"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "a088fd9379b04e528804768d"
+  },
+  "id": 378,
+  "topic": "api_fetch",
+  "question": "Where should API fetch logic go in functional components?",
+  "options": [
+    "Using fetch or axios",
+    "Using setTimeout",
+    "Using alert",
+    "Using useState only"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "758908a1461141fabaaae2ef"
+  },
+  "id": 379,
+  "topic": "api_fetch",
+  "question": "How do you show loading indicator while fetching?",
+  "options": [
+    "Using setTimeout",
+    "Using useState only",
+    "Using alert",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "7c3a8a7ad8db4382aeb08b9d"
+  },
+  "id": 380,
+  "topic": "api_fetch",
+  "question": "What is the use of async function inside useEffect?",
+  "options": [
+    "Using useState only",
+    "Using fetch or axios",
+    "Using alert",
+    "Using setTimeout"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "2e6ac8f1b4614dbfae305d09"
+  },
+  "id": 381,
+  "topic": "api_fetch",
+  "question": "How do you catch fetch errors in useEffect?",
+  "options": [
+    "Using useState only",
+    "Using fetch or axios",
+    "Using setTimeout",
+    "Using alert"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "d22ddd396c0b4850afff9ada"
+  },
+  "id": 382,
+  "topic": "api_fetch",
+  "question": "How do you store fetched data?",
+  "options": [
+    "Using useState only",
+    "Using alert",
+    "Using setTimeout",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "3c92e55499034cc292542231"
+  },
+  "id": 383,
+  "topic": "api_fetch",
+  "question": "How do you display API data on UI?",
+  "options": [
+    "Using alert",
+    "Using setTimeout",
+    "Using fetch or axios",
+    "Using useState only"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "52f5efa59d1a45feae26e16d"
+  },
+  "id": 384,
+  "topic": "api_fetch",
+  "question": "How do you re-fetch data on button click?",
+  "options": [
+    "Using fetch or axios",
+    "Using alert",
+    "Using useState only",
+    "Using setTimeout"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "d52a505182374b41b348385f"
+  },
+  "id": 385,
+  "topic": "api_fetch",
+  "question": "How do you fetch API on component mount?",
+  "options": [
+    "Using setTimeout",
+    "Using useState only",
+    "Using fetch or axios",
+    "Using alert"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "0223270e791d440286d0e16d"
+  },
+  "id": 386,
+  "topic": "api_fetch",
+  "question": "How do you show an error message if API fails?",
+  "options": [
+    "Using fetch or axios",
+    "Using useState only",
+    "Using setTimeout",
+    "Using alert"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "5065ff18de434bc782040f14"
+  },
+  "id": 387,
+  "topic": "api_fetch",
+  "question": "How do you transform data from API before storing?",
+  "options": [
+    "Using useState only",
+    "Using alert",
+    "Using setTimeout",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "b2a6020023004ad0b2e6a4ee"
+  },
+  "id": 388,
+  "topic": "api_fetch",
+  "question": "What library simplifies API calls?",
+  "options": [
+    "Using alert",
+    "Using useState only",
+    "Using setTimeout",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "8bda606b33aa4bb88a9801d2"
+  },
+  "id": 389,
+  "topic": "api_fetch",
+  "question": "How do you pass query parameters in fetch?",
+  "options": [
+    "Using fetch or axios",
+    "Using useState only",
+    "Using alert",
+    "Using setTimeout"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "01d63674be474d249f7d166e"
+  },
+  "id": 390,
+  "topic": "api_fetch",
+  "question": "How do you handle loading, error, and data states?",
+  "options": [
+    "Using fetch or axios",
+    "Using setTimeout",
+    "Using useState only",
+    "Using alert"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "317021d396e84d24a9bf2b5e"
+  },
+  "id": 391,
+  "topic": "api_fetch",
+  "question": "How do you cancel fetch request on unmount?",
+  "options": [
+    "Using useState only",
+    "Using alert",
+    "Using setTimeout",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "a9f859556faa4023bbff6453"
+  },
+  "id": 392,
+  "topic": "api_fetch",
+  "question": "How do you fetch data conditionally?",
+  "options": [
+    "Using setTimeout",
+    "Using alert",
+    "Using useState only",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "5499a55fe85f4c66855e219b"
+  },
+  "id": 393,
+  "topic": "api_fetch",
+  "question": "How do you fetch data from an authenticated API?",
+  "options": [
+    "Using useState only",
+    "Using alert",
+    "Using fetch or axios",
+    "Using setTimeout"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "0d9eee22ca8549d4bec9c053"
+  },
+  "id": 394,
+  "topic": "api_fetch",
+  "question": "How do you use try/catch with fetch?",
+  "options": [
+    "Using alert",
+    "Using setTimeout",
+    "Using fetch or axios",
+    "Using useState only"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "4298280a41084e179ee6d8b2"
+  },
+  "id": 395,
+  "topic": "api_fetch",
+  "question": "What is a common issue with async useEffect?",
+  "options": [
+    "Using useState only",
+    "Using alert",
+    "Using fetch or axios",
+    "Using setTimeout"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "9d63a76f951540ee8410329b"
+  },
+  "id": 396,
+  "topic": "api_fetch",
+  "question": "Can you chain multiple API calls?",
+  "options": [
+    "Using setTimeout",
+    "Using alert",
+    "Using fetch or axios",
+    "Using useState only"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "07f903bdb38c4f2689d6afc5"
+  },
+  "id": 397,
+  "topic": "api_fetch",
+  "question": "How do you fetch data based on user input?",
+  "options": [
+    "Using fetch or axios",
+    "Using alert",
+    "Using setTimeout",
+    "Using useState only"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "0c47d24b38ae4b55bf949965"
+  },
+  "id": 398,
+  "topic": "api_fetch",
+  "question": "What is the purpose of useEffect dependency array in API call?",
+  "options": [
+    "Using setTimeout",
+    "Using useState only",
+    "Using alert",
+    "Using fetch or axios"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "63781228d4f0465aaa8e76b7"
+  },
+  "id": 399,
+  "topic": "api_fetch",
+  "question": "How do you avoid unnecessary re-fetching?",
+  "options": [
+    "Using fetch or axios",
+    "Using useState only",
+    "Using alert",
+    "Using setTimeout"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "5cc91a4ee1524a04a7884b74"
+  },
+  "id": 400,
+  "topic": "api_fetch",
+  "question": "How do you debug API call errors?",
+  "options": [
+    "Using useState only",
+    "Using setTimeout",
+    "Using fetch or axios",
+    "Using alert"
+  ],
+  "answer": "Using fetch or axios"
+},
+{
+  "_id": {
+    "$oid": "f14a9f6c4fe14736845a82bb"
+  },
+  "id": 401,
+  "topic": "use_effect_sideeffects",
+  "question": "What are side effects in React?",
+  "options": [
+    "Manage state only",
+    "Declare props",
+    "Handle effects after render",
+    "Render JSX"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "f52ce41f9a534807b653e4e2"
+  },
+  "id": 402,
+  "topic": "use_effect_sideeffects",
+  "question": "What hook is used to handle side effects?",
+  "options": [
+    "Render JSX",
+    "Declare props",
+    "Manage state only",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "4fd3bf478f974f8db5a2322a"
+  },
+  "id": 403,
+  "topic": "use_effect_sideeffects",
+  "question": "When does useEffect run for side effects?",
+  "options": [
+    "Declare props",
+    "Render JSX",
+    "Manage state only",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "3f01d1255107469797936579"
+  },
+  "id": 404,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you fetch data as a side effect?",
+  "options": [
+    "Declare props",
+    "Manage state only",
+    "Render JSX",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "5bda20a351a84fa1b0c7e2cf"
+  },
+  "id": 405,
+  "topic": "use_effect_sideeffects",
+  "question": "What is the cleanup function in useEffect?",
+  "options": [
+    "Render JSX",
+    "Declare props",
+    "Manage state only",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "6adbf59ba2fe46f2b81dcb2f"
+  },
+  "id": 406,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you use useEffect to set a timer?",
+  "options": [
+    "Declare props",
+    "Render JSX",
+    "Manage state only",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "3d588ee58e4d4f3f8a90115a"
+  },
+  "id": 407,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you update document title using useEffect?",
+  "options": [
+    "Render JSX",
+    "Handle effects after render",
+    "Declare props",
+    "Manage state only"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "c9a68e8e901d466e9f51616d"
+  },
+  "id": 408,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you handle subscriptions with useEffect?",
+  "options": [
+    "Manage state only",
+    "Handle effects after render",
+    "Declare props",
+    "Render JSX"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "a88d4103d04b416ba000bb10"
+  },
+  "id": 409,
+  "topic": "use_effect_sideeffects",
+  "question": "When is the cleanup function executed?",
+  "options": [
+    "Handle effects after render",
+    "Render JSX",
+    "Declare props",
+    "Manage state only"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "960f0a0a47454c31887ef795"
+  },
+  "id": 410,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you run side effect only once?",
+  "options": [
+    "Declare props",
+    "Handle effects after render",
+    "Render JSX",
+    "Manage state only"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "584106db4f484ad88df7a262"
+  },
+  "id": 411,
+  "topic": "use_effect_sideeffects",
+  "question": "Can you use multiple useEffects for different effects?",
+  "options": [
+    "Render JSX",
+    "Declare props",
+    "Manage state only",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "880f0b9f12e14eb8a7a5d45f"
+  },
+  "id": 412,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you useEffect with local storage?",
+  "options": [
+    "Render JSX",
+    "Handle effects after render",
+    "Declare props",
+    "Manage state only"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "528244740a634ec49fd5d54d"
+  },
+  "id": 413,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you useEffect for event listeners?",
+  "options": [
+    "Handle effects after render",
+    "Manage state only",
+    "Render JSX",
+    "Declare props"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "9cba521f28f14dbe876282c4"
+  },
+  "id": 414,
+  "topic": "use_effect_sideeffects",
+  "question": "Can you do DOM manipulation inside useEffect?",
+  "options": [
+    "Render JSX",
+    "Manage state only",
+    "Declare props",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "ac4134f213f64e6fab1f85b8"
+  },
+  "id": 415,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you log side effect executions?",
+  "options": [
+    "Handle effects after render",
+    "Manage state only",
+    "Declare props",
+    "Render JSX"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "f45b422f79b548bcb7f81c7b"
+  },
+  "id": 416,
+  "topic": "use_effect_sideeffects",
+  "question": "What causes useEffect to re-run?",
+  "options": [
+    "Declare props",
+    "Render JSX",
+    "Manage state only",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "98c03af4c7c14b4f8ad122a9"
+  },
+  "id": 417,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you avoid stale closures in side effects?",
+  "options": [
+    "Declare props",
+    "Manage state only",
+    "Handle effects after render",
+    "Render JSX"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "e4e6a070b6744e0e83dc4558"
+  },
+  "id": 418,
+  "topic": "use_effect_sideeffects",
+  "question": "What is the role of dependency array?",
+  "options": [
+    "Declare props",
+    "Manage state only",
+    "Render JSX",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "8cb78422d22d4e318e1b25b5"
+  },
+  "id": 419,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you run side effects on prop change?",
+  "options": [
+    "Render JSX",
+    "Handle effects after render",
+    "Declare props",
+    "Manage state only"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "a0b0da9e415346259a74f151"
+  },
+  "id": 420,
+  "topic": "use_effect_sideeffects",
+  "question": "Can you delay a side effect?",
+  "options": [
+    "Declare props",
+    "Manage state only",
+    "Handle effects after render",
+    "Render JSX"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "2c281885dc2c4af4929d9bd7"
+  },
+  "id": 421,
+  "topic": "use_effect_sideeffects",
+  "question": "What happens if you omit dependency array?",
+  "options": [
+    "Manage state only",
+    "Declare props",
+    "Render JSX",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "5dd22132afd547d6bb6a28d4"
+  },
+  "id": 422,
+  "topic": "use_effect_sideeffects",
+  "question": "What side effects require cleanup?",
+  "options": [
+    "Declare props",
+    "Manage state only",
+    "Render JSX",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "40ab6a2bdceb428da04e07e3"
+  },
+  "id": 423,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you debug unexpected side effects?",
+  "options": [
+    "Handle effects after render",
+    "Manage state only",
+    "Declare props",
+    "Render JSX"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "01e36230bc464b12b6cdd4f6"
+  },
+  "id": 424,
+  "topic": "use_effect_sideeffects",
+  "question": "What are best practices for useEffect?",
+  "options": [
+    "Render JSX",
+    "Handle effects after render",
+    "Declare props",
+    "Manage state only"
+  ],
+  "answer": "Handle effects after render"
+},
+{
+  "_id": {
+    "$oid": "8951d2bb2fdf4b2da29ccd53"
+  },
+  "id": 425,
+  "topic": "use_effect_sideeffects",
+  "question": "How do you coordinate multiple side effects?",
+  "options": [
+    "Manage state only",
+    "Render JSX",
+    "Declare props",
+    "Handle effects after render"
+  ],
+  "answer": "Handle effects after render"
+}]
