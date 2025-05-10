@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply to body for base styling */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Main layout sections */
+main {
+  padding: 1rem 2rem;
+  min-height: 80vh; /* Ensures Footer doesn’t float mid-page */
+  background-color: #fff;
+}
+
+/* header  */
+/* header.css */
+
+/* header.css */
+
+header {
+  background-color: #2c3e50;
+  padding: 1rem 0;
+  min-height: 10vh;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 2rem;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #f39c12;
+}
+
+/* Highlight active link */
+nav ul li .active {
+  border-bottom: 2px solid #f39c12;
+  padding-bottom: 0.2rem;
+}
+
+/* home */
+.home-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.home-container h1 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.home-container p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+#title {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+/* Form Container */
+.student-form-con {
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Fields */
+.student-form {
+  display: grid;
+  gap: 15px;
+}
+
+.input-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-items label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.input-items input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+/* Form Buttons */
+.btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.btns button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.btns button:hover {
+  background-color: #2980b9;
+}
+
+/* Student Cards Container */
+.students-con {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  padding: 10px;
+}
+
+/* Individual Card */
+.student-card {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.student-card h1 {
+  font-size: 18px;
+  margin: 6px 0;
+  color: #34495e;
+}
+
+/* footer  */
+.footer {
+  background-color: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  min-height: 10vh;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.9rem;
+}
